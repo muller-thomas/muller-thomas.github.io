@@ -7,3 +7,4 @@ ressources
 _quarto.yml
 
 *.qmd
+/.quarto/
