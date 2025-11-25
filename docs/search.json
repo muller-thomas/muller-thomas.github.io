@@ -1,0 +1,632 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Animation Vincent Mazet: signal processing animations in JavaScript.\nInteractive plots, intro to DSP: (digital) signal processing animations.\n\n\n\nGaussianWaves: signal processing for communication systems.\nWireless Pi: signal processing for communication systems.\nInterstices: some articles on signal processing.\nMFCC et filtres Mel: blog on speech processing, MFCCs coefficients and filterbanks for mel-spectral analysis.\n\n\n\nCours traitement du signal (partie 1) - Vincent Mazet (partie 2) (🇫🇷): french signal processing lessons by Vincent Mazet from Télécom Physique Strasbourg.\nVidéos YouTube - Barry Van Veen: YouTube channel on signal processing.\nDigital Signal Theory: signal processing lessons.\n\n\n\nDigital Audio Resampling: website on digital audio resampling.\nOverdub: voice cloning and TTS (and other tools).\nArsonor - Sound Design in the box (🇫🇷): sound artist website (in french) with articles on the use of audio filters, EQ and more.\nGIF scales in audio: GIF to show the different scales of an audio signal.\nAES tutorial on coding artifacts: tutorial from the Audio Engineering Society (AES) explaining the basis principles of audio coding and typical audio artifacts.\nSpeech Processing Lesson Aalto: speech processing lesson from Aalto university, with interesting chapters on evaluation methods (objective and subjective)."
+  },
+  {
+    "objectID": "resources.html#animations",
+    "href": "resources.html#animations",
+    "title": "Resources",
+    "section": "",
+    "text": "Animation Vincent Mazet: signal processing animations in JavaScript.\nInteractive plots, intro to DSP: (digital) signal processing animations."
+  },
+  {
+    "objectID": "resources.html#blogs",
+    "href": "resources.html#blogs",
+    "title": "Resources",
+    "section": "",
+    "text": "GaussianWaves: signal processing for communication systems.\nWireless Pi: signal processing for communication systems.\nInterstices: some articles on signal processing.\nMFCC et filtres Mel: blog on speech processing, MFCCs coefficients and filterbanks for mel-spectral analysis."
+  },
+  {
+    "objectID": "resources.html#lessons",
+    "href": "resources.html#lessons",
+    "title": "Resources",
+    "section": "",
+    "text": "Cours traitement du signal (partie 1) - Vincent Mazet (partie 2) (🇫🇷): french signal processing lessons by Vincent Mazet from Télécom Physique Strasbourg.\nVidéos YouTube - Barry Van Veen: YouTube channel on signal processing.\nDigital Signal Theory: signal processing lessons."
+  },
+  {
+    "objectID": "resources.html#audio",
+    "href": "resources.html#audio",
+    "title": "Resources",
+    "section": "",
+    "text": "Digital Audio Resampling: website on digital audio resampling.\nOverdub: voice cloning and TTS (and other tools).\nArsonor - Sound Design in the box (🇫🇷): sound artist website (in french) with articles on the use of audio filters, EQ and more.\nGIF scales in audio: GIF to show the different scales of an audio signal.\nAES tutorial on coding artifacts: tutorial from the Audio Engineering Society (AES) explaining the basis principles of audio coding and typical audio artifacts.\nSpeech Processing Lesson Aalto: speech processing lesson from Aalto university, with interesting chapters on evaluation methods (objective and subjective)."
+  },
+  {
+    "objectID": "resources.html#animations---visualizations",
+    "href": "resources.html#animations---visualizations",
+    "title": "Resources",
+    "section": "👓 Animations - visualizations",
+    "text": "👓 Animations - visualizations\nAnimations on convolution: animations to understand the role of each parameter for deep learning 2D convolutions.\nConvolution Visualizer: interactive animation of a convolution.\nNeural network architecture visualization: website to generate figures or neural network architectures with three styles: fully-connected, LeNet or AlexNet.\nTransposed convolution understanding/visualization: to understand and visualize transposed convolutions.\nImage filtering demo: demo on image filtering with filters/kernels to detect object edges.\nLLM Visualization: website to visualize and understand Large Language Models (LLMs).\nDeep Visualization Toolbox: visualization toolbox of feature maps from an image. associated video.\nLaTeX architecture visualization: visualization with LaTeX or well-known neural network architectures.\nLive and animated MNIST classification: interactive website showing the solving of the MNIST classification problem by a COnvolutional Neural Network (CNN).\nPolo Club of Data Science · GitHub: GitHub page of a research team dedicated to the creation of interactive website about Deep Learning, including:\n\nCNN Explainer: CNN feature maps visualization.\nGAN Lab: Play with Generative Adversarial Networks in Your Browser!: GAN training “lab”.\nDiffusion Explainer: Stable Diffusion Explained with Visualization: diffusion process explanation.\n\nSummit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations (fredhohman.com): CNN learned features visualization.\nWhy Momentum Really Works: animated blog on the principle behind momentum in optimizers.\nLosslanscapes: loss landscape visualization."
+  },
+  {
+    "objectID": "resources.html#lessons-1",
+    "href": "resources.html#lessons-1",
+    "title": "Resources",
+    "section": "✍️ Lessons",
+    "text": "✍️ Lessons\nCS 230 -Deep Learning - Standford: reminders on deep learning, from Stanford’s Deep Learning Courses.\nThe Illustrated Machine Learning Website: nicely illustraded website on Machine Learning.\nCours DL New York en français (🇫🇷): New York Univertity Deep Learning Lessons translated in french.\nLLM Course: lots of tutorial and diverse pieces of information about LLMs.\nEfficient Deep Learning: book on complexity reduction techniques in neural networks and other subjects.\nFormation Jean Zay: documentation to optimize the training of Deep Learning models on the supercomputer Jean Zay."
+  },
+  {
+    "objectID": "resources.html#blogs-1",
+    "href": "resources.html#blogs-1",
+    "title": "Resources",
+    "section": "💻 Blogs",
+    "text": "💻 Blogs\nHow to train GAN: tricks and advices on GAN training.\nBackprop of CNN is convolution: Medium article showing how the backpropagation in a convolution layer is itself a convolution.\nGroup convolution explanation: interesting explanations and animations on group convolutions.\nArticle on checkerboard artifacts after transposed convolution: article showing the problem or chechkerboard artifacts arising when using transposed convolution if not proper set.\nDistill: collection of interactive blog posts.\nReceptive field computation: explanations and formulas to compute the receptive field of a CNN. Other links: https://blog.mlreview.com/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807 and https://medium.com/@rekalantar/receptive-fields-in-deep-convolutional-networks-43871d2ef2e9\nBlog on loss vizualization: blog on mode connectivity related to loss landscape.\nDeep Visualization: blog on feature maps visualization."
+  },
+  {
+    "objectID": "resources.html#miscellaneous",
+    "href": "resources.html#miscellaneous",
+    "title": "Resources",
+    "section": "🎲 Miscellaneous",
+    "text": "🎲 Miscellaneous\nFlops counting tool for PyTorch: python script to compute a theoretical number of operations for PyTorch CNNs.\nGitHub DNN Training Alexandre Defossez: GitHub with tips and base code for neural network training, with links for other resources.\nMojo - new programming language for all AI developers: new programing language for IA compining the experience of Python with performance from C.\nSnapshot mémoire CUDA avec PyTorch: visualization tool to show the memomry used by CUDA."
+  },
+  {
+    "objectID": "resources.html#note-taking-and-document-creation",
+    "href": "resources.html#note-taking-and-document-creation",
+    "title": "Resources",
+    "section": "📝 Note taking and document creation",
+    "text": "📝 Note taking and document creation\n\nMarkdown\nCommonMark: learn Markdown basis in 1 minute\n\n\nLaTeX\nBeamer template: nice Beamer template\nNemo Fournier’s website: website of a PhD stude, with some advices on LaTeX\nTables Generator: tool website to easily create LaTeX tables\n\n\nSlides\nSlides.com: online (not free) editor to create slides with Reveal.js\nQuarto: create slides, website, interactive documents and more from Markdown syntax codes"
+  },
+  {
+    "objectID": "resources.html#visualisation",
+    "href": "resources.html#visualisation",
+    "title": "Resources",
+    "section": "👓 Visualisation",
+    "text": "👓 Visualisation\nData to Viz: help to choose the right type of diagram depending on the data to visualize.\nExcalidraw: online drawing, with possible integration to Obsidian through an extension.\nPeriodic table of visualization methods: visualization methods periodic table."
+  },
+  {
+    "objectID": "resources.html#linux",
+    "href": "resources.html#linux",
+    "title": "Resources",
+    "section": "🤓 Linux",
+    "text": "🤓 Linux\nExplainShell.com: website to understand the meaning of any shell command line.\nThe Art of Command Line: GitHub referencing the basis in using the shell Linux console and the command lines."
+  },
+  {
+    "objectID": "resources.html#research",
+    "href": "resources.html#research",
+    "title": "Resources",
+    "section": "🥼 Research",
+    "text": "🥼 Research\nSigPort: IEEE website where posters and slides from IEEE conferences can be uploaded.\nLitmaps: search tool to find related articles from a given article, with a visual interface.\nDoctostat (🇫🇷): french website on the future of PhDs."
+  },
+  {
+    "objectID": "resources.html#miscellaneous-1",
+    "href": "resources.html#miscellaneous-1",
+    "title": "Resources",
+    "section": "🎲 Miscellaneous",
+    "text": "🎲 Miscellaneous\nGit Cheat Sheet: help to use Git.\nLearn Git branching: playful way to learn Git branching.\nMake a README: advices on README writing.\nKeep a changelog: website on good practice about having a changelog file to inform users about important changes in a code.\nTables generator: easy creation of tables for LaTeX and Markdown."
+  },
+  {
+    "objectID": "resources.html#environnement-de-travail",
+    "href": "resources.html#environnement-de-travail",
+    "title": "Resources",
+    "section": "Environnement de travail",
+    "text": "Environnement de travail\n\n🐍 Coder en Python\nInstallation direct de Python : https://www.python.org/downloads/\nInstallation via Anaconda : https://www.anaconda.com/download/success\nInstallation via Miniconda : https://docs.anaconda.com/free/miniconda/index.html Version minimale de Anaconda\n\n\n💻 Environnement de développement\nVSCode : https://code.visualstudio.com/Download Ajouter l’extension Python\nPyCharm : https://www.jetbrains.com/pycharm/download/ Eventuellement, prendre la version PyCharm Community Edition\nSpyder : https://www.spyder-ide.org/ Inclut avec Anaconda\n\n\n🛠️ Librairies Python\n\n👶 Librairies standards\nL’ensemble des librairies standards de Python est consultable ici : https://docs.python.org/3/library/index.html. Celles principalement utilisées sont les suivantes :\nmath : https://docs.python.org/3/library/math.html Fonctions mathématiques. Voir cmath pour des fonctions pour les nombres complexes.\nrandom : https://docs.python.org/fr/3/library/random.html Génération de nombres aléatoires. Fonctionnalité aussi disponible dans d’autres librairies scientifiques.\nos et os.path : https://docs.python.org/fr/3.7/library/os.html Interface avec le système d’exploitation. Très utilisé pour la gestion des fichiers et des chemins de fichier.\nPathlib : https://docs.python.org/3/library/pathlib.html Librairie pour gérer les chemins d’accès de fichier sans se préoccuper des spécificités liées au système d’exploitation utilisé.\nargparse : https://docs.python.org/3/library/argparse.html Module de création d’interface en ligne de commande (CLI).\ntime : https://docs.python.org/3/library/time.html Mesure du temps d’exécution d’une portion de code.\nsubprocess : https://docs.python.org/3/library/subprocess.html Exécution de lignes de commande depuis Python.\n\n\n🔬 Librairies scientifiques usuelles\nNumPy : https://numpy.org/ Librairie fondamentale pour le calcul sur des tableaux multidimensionnels.\nMatplotlib : https://matplotlib.org/ Création de figures et graphiques en Python.\nSciPy : https://scipy.org/ Librairie de calcul mathématique : optimisation, intégration, interpolation, équations algébriques, etc.\nOpenCV : https://opencv.org/ Librairie pour le traitement d’image et la vision par ordinateur.\n\n\n🧠 Librairies de Machine Learning (ML) et Deep Learning (DL)\nscikit-learn : https://scikit-learn.org/ Librairie de ML pour les taches de classification, régression, clustering, réduction de dimensionalité, etc.\nPyTorch : https://pytorch.org/ Librairie de DL créée par Meta, très utilisée en recherche.\nTensorFlow : https://www.tensorflow.org/ Librairie de DL créée par Google. Souvent utilisé avec Keras.\nKeras : https://keras.io/ Framework Python de DL qui permet une manipulation de haut niveau, initialement pour le backend TensorFlow, mais supporte également PyTorch et JAX depuis Keras 3.\nJAX : https://jax.readthedocs.io/ Librairie de DL orientée pour le calcul accéléré (JIT, XLA).\nPyTorch Lightning : https://lightning.ai/docs/pytorch/stable/ Framework pour PyTorch pour simplifier l’écriture de code.\n\n\n🎲 Autres librairies utiles\nTQDM : https://tqdm.github.io/ Création de barres de chargement.\nSoundfile : https://python-soundfile.readthedocs.io/ Lecture et écriture de fichiers audio.\nEinops : https://einops.rocks/ Librairie pour faciliter et rendre plus lisible la manipulation des tenseurs, en particulier pour les transpositions.\nTorchInfo : https://github.com/tyleryep/torchinfo Librairie permettant d’afficher l’architecture d’un modèle et la taille des tenseurs à chaque couche du réseau quand on utilise PyTorch.\nBroadcasting : https://numpy.org/doc/stable/user/basics.broadcasting.html Utilisation puissante des tenseurs NumPy pour certains calculs (aussi valable pour TensorFlow et PyTorch)."
+  },
+  {
+    "objectID": "resources.html#ressources-deep-learning-1",
+    "href": "resources.html#ressources-deep-learning-1",
+    "title": "Resources",
+    "section": "Ressources Deep Learning",
+    "text": "Ressources Deep Learning\n\n🔗 Sites internet\nVisualisation architecture réseaux : https://alexlenail.me/NN-SVG/index.html Site internet permettant de visualiser quelques réseaux de neurones (fully-connected et convolution).\nPrincipe convolution images : https://deeplizard.com/resource/pavq7noze2 Animation sur le principe de la convolution d’une image par un filtre.\nConvolution Visualizer : https://ezyang.github.io/convolution-visualizer/ Visualisation des convolutions en fonction de la taille de l’entrée, de la taille du kernel et des autres paramètres de padding, dilatation et stride.\nArithmétique des convolutions : https://github.com/vdumoulin/conv_arithmetic Toutes les formules pour calculer les tailles des tenseurs en entrée et sortie des couches de convolution, et visualiser les effets des différents paramètres associés.\nMachine Learning illustré : https://illustrated-machine-learning.github.io/ Site internet avec des illustrations sympathiques sur le ML et DL.\nPense-bêtes DL : https://stanford.edu/~shervine/l/fr/teaching/cs-230/ Pense-bêtes provenant du cours de Stanford CS 230. Il y a aussi des choses intéressantes pour CS 229.\nConvolutions groupées : https://blog.yani.ai/filter-group-tutorial/ Blog expliquant le principe des convolutions groupées.\nConvolutions transposées : https://deeplizard.com/resource/pavq7noze4 Blog expliquant le principe des convolutions transposées.\nVisualisation champ récepteur convolutions : https://distill.pub/2019/computing-receptive-fields/ Site internet pour visualiser le champ récepteur équivalent de plusieurs couches de convolutions.\nLLM Visualization : https://bbycroft.net/llm Site internet pour visualiser l’architecture des LLMs (Large Language Models).\nCours LLMs : https://github.com/mlabonne/llm-course Large collection d’informations sur les LLMs.\nDistill : https://distill.pub/ Blog d’articles interactifs en lien avec l’IA.\n\n\n🎥 Vidéos\nFidle CNRS : https://fidle.cnrs.fr/ Cours d’IA donné tous les ans par le CNRS.\nCours de Stanford : https://www.youtube.com/@stanfordonline Beaucoup de cours d’IA de Stanford.\nChaîne YouTube The AI Epiphany : https://www.youtube.com/@TheAIEpiphany Vidéos sur l’IA s’appuyant sur les articles de recherche associés.\nMachine Learnia : https://www.youtube.com/@MachineLearnia Cours en français ML et DL.\n\n\n📚 Livres\nThe Little Book of Deep Learning : https://fleuret.org/francois/lbdl.html Petit livre en format téléphone contenant de nombreuses connaissances de base en Deep Learning.\nHands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Livre mélangeant la théorie et la pratique avec une partie sur le ML et l’autre sur le DL. Les notebooks sont disponibles ici : https://github.com/ageron/handson-ml3\nDeep Learning : https://www.deeplearningbook.org/ Une référence très connue, beaucoup plus d’un point de vue mathématique (pas vraiment du point de vue pratique)."
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Spherical Lattice Vector Quantization in Neural Audio Coding [Source][PDF]\nThomas Muller, Stéphane Ragot and Pascal Scalart\nEuropean Signal Processing Conference (EUSIPCO), 2025, Palermo, Sicily\n \nÉtude comparative de qualité des codecs audio neuronaux – cas de la musique et du contenu mixte parole/musique [Source][PDF][Poster]\nThomas Muller, Stéphane Ragot, Laetitia Gros et Pascal Scalart\n30ème Colloque Francophone de Traitement du Signal et des Images (GRETSI), 2025, Strasbourg, France"
+  },
+  {
+    "objectID": "papers.html#section",
+    "href": "papers.html#section",
+    "title": "Papers",
+    "section": "",
+    "text": "Spherical Lattice Vector Quantization in Neural Audio Coding [Source][PDF]\nThomas Muller, Stéphane Ragot and Pascal Scalart\nEuropean Signal Processing Conference (EUSIPCO), 2025, Palermo, Sicily\n \nÉtude comparative de qualité des codecs audio neuronaux – cas de la musique et du contenu mixte parole/musique [Source][PDF][Poster]\nThomas Muller, Stéphane Ragot, Laetitia Gros et Pascal Scalart\n30ème Colloque Francophone de Traitement du Signal et des Images (GRETSI), 2025, Strasbourg, France"
+  },
+  {
+    "objectID": "papers.html#section-1",
+    "href": "papers.html#section-1",
+    "title": "Papers",
+    "section": "2024",
+    "text": "2024\nEvaluation of Objective Quality Models on Neural Audio Codecs [Source][PDF][Poster]\nThomas Muller, Stéphane Ragot, Vincent Barriac and Pascal Scalart\n18th International Workshop on Acoustic Signal Enhancement (IWAENC), 2024, Aalborg, Denmark\n \nSpeech quality evaluation of neural audio codecs [Source][PDF][Poster]\nThomas Muller, Stephane Ragot, Laetitia Gros, Pierrick Philippe and Pascal Scalart\nInterspeech, 2024, Kos Island, Greece\n \nPost-Training Latent Dimension Reduction in Neural Audio Coding [Source][PDF][Poster]\nThomas Muller, Stéphane Ragot, Pierrick Philippe, Pascal Scalart\nEuropean Signal Processing Conference (EUSIPCO), 2024, Lyon, France\n \nAmélioration de codecs de parole par modèle de diffusion [Source]\nRomain Buguet, Stéphane Ragot et Thomas Muller\nCOmpression et REprésentation des Signaux Audiovisuels (CORESA), 2024, Rennes, France"
+  },
+  {
+    "objectID": "papers.html#section-2",
+    "href": "papers.html#section-2",
+    "title": "Papers",
+    "section": "2023",
+    "text": "2023\nQuantification optimisée de l’espace latent en codage audio neuronal [Source][PDF]\nThomas Muller, Stéphane Ragot, Quentin Lemesle, Pierrick Philippe et Pascal Scalart\nXXIXème Colloque Francophone de Traitement du Signal et des Images (GRETSI), 2023, Grenoble, France"
+  },
+  {
+    "objectID": "cooking.html",
+    "href": "cooking.html",
+    "title": "Cooking",
+    "section": "",
+    "text": "Baguette apéro\nBéchamel\nCroissant au jambon\nQuiche lorraine\nQuiche brocolis poulet tomate"
+  },
+  {
+    "objectID": "cooking.html#salé",
+    "href": "cooking.html#salé",
+    "title": "Cooking",
+    "section": "",
+    "text": "Baguette apéro\nBéchamel\nCroissant au jambon\nQuiche lorraine\nQuiche brocolis poulet tomate"
+  },
+  {
+    "objectID": "cooking.html#sucré",
+    "href": "cooking.html#sucré",
+    "title": "Cooking",
+    "section": "🧁 Sucré",
+    "text": "🧁 Sucré\n\nBrownie citron\nButterbredele\nCake citron\nCarrot cake\nCookies\nCrumble aux pommes\nFlan patissier\nGalette des rois\nGâteau au yaourt\nTarte amandine aux abricots\nTuiles aux amandes"
+  },
+  {
+    "objectID": "cooking/plat/quiche_brocolis_poulet.html",
+    "href": "cooking/plat/quiche_brocolis_poulet.html",
+    "title": "Quiche brocolis poulet tomate",
+    "section": "",
+    "text": "1 pâte feuilletée ou brisée\n2 bouquets de brocolis (1/2 paquet de brocolis surgelés)\n2 blancs de poulets cuits\n3 petites tomates\n100cL de lait\n3 œufs\nmoutarde"
+  },
+  {
+    "objectID": "cooking/plat/quiche_brocolis_poulet.html#ingrédients",
+    "href": "cooking/plat/quiche_brocolis_poulet.html#ingrédients",
+    "title": "Quiche brocolis poulet tomate",
+    "section": "",
+    "text": "1 pâte feuilletée ou brisée\n2 bouquets de brocolis (1/2 paquet de brocolis surgelés)\n2 blancs de poulets cuits\n3 petites tomates\n100cL de lait\n3 œufs\nmoutarde"
+  },
+  {
+    "objectID": "cooking/plat/quiche_brocolis_poulet.html#ustensiles",
+    "href": "cooking/plat/quiche_brocolis_poulet.html#ustensiles",
+    "title": "Quiche brocolis poulet tomate",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nPlat à tarte"
+  },
+  {
+    "objectID": "cooking/plat/quiche_brocolis_poulet.html#étapes",
+    "href": "cooking/plat/quiche_brocolis_poulet.html#étapes",
+    "title": "Quiche brocolis poulet tomate",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nPréchauffer le four à 180°C\nAppliquer la pâte feuilletée dans le moule (en gardant le papier sulfurisé présent dans l’emballage) et enlever les bords qui dépassent. Faire des trous avec une fourchette (fond voire également sur les côtés) pour éviter que la pâte gonfle\nFaire cuire les brocolis.\nBadigeonner le fond de la pâte avec de la moutarde.\nCouper les tomates en rondelles et les placer au fond de la tarte.\nDisposer les brocolis et les morceaux de poulet.\nPréparation de l’appareil œuf-lait-crème.\nCasser trois œufs et les mélanger avec sel + poivre.\nIncorporer la crème et mélanger\nRajouter un peu de lait et mélanger\nUne fois le four chaud (pour ne pas détremper la pâte feuilletée/brisée avec l’appareil), verser l’appareil dans le moule et enfourner pendant 30 min. Rajouter le temps nécessaire pour obtenir une bonne couleur générale de la quiche"
+  },
+  {
+    "objectID": "cooking/plat/bechamel.html",
+    "href": "cooking/plat/bechamel.html",
+    "title": "Béchamel",
+    "section": "",
+    "text": "Base :\n\n100 mL de lait\n10g de farine\n10 g de beurre\nSel/poivre\nMuscade en poudre"
+  },
+  {
+    "objectID": "cooking/plat/bechamel.html#ingrédients",
+    "href": "cooking/plat/bechamel.html#ingrédients",
+    "title": "Béchamel",
+    "section": "",
+    "text": "Base :\n\n100 mL de lait\n10g de farine\n10 g de beurre\nSel/poivre\nMuscade en poudre"
+  },
+  {
+    "objectID": "cooking/plat/bechamel.html#ustensiles",
+    "href": "cooking/plat/bechamel.html#ustensiles",
+    "title": "Béchamel",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nCasserole"
+  },
+  {
+    "objectID": "cooking/plat/bechamel.html#étapes",
+    "href": "cooking/plat/bechamel.html#étapes",
+    "title": "Béchamel",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nMélanger les ingrédients et faire cuire à feu doux en n’arrêtant pas de mélanger."
+  },
+  {
+    "objectID": "cooking/dessert/tuiles_amande.html",
+    "href": "cooking/dessert/tuiles_amande.html",
+    "title": "Tuiles aux amandes",
+    "section": "",
+    "text": "200g de sucre\n4 blancs d’œufs\n100g de farine\n100g de beurre\n60g d’amandes effilées"
+  },
+  {
+    "objectID": "cooking/dessert/tuiles_amande.html#ingrédients",
+    "href": "cooking/dessert/tuiles_amande.html#ingrédients",
+    "title": "Tuiles aux amandes",
+    "section": "",
+    "text": "200g de sucre\n4 blancs d’œufs\n100g de farine\n100g de beurre\n60g d’amandes effilées"
+  },
+  {
+    "objectID": "cooking/dessert/tuiles_amande.html#ustensiles",
+    "href": "cooking/dessert/tuiles_amande.html#ustensiles",
+    "title": "Tuiles aux amandes",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nTamis\nRouleau à pâtisserie\nPlaque de cuisson"
+  },
+  {
+    "objectID": "cooking/dessert/tuiles_amande.html#étapes",
+    "href": "cooking/dessert/tuiles_amande.html#étapes",
+    "title": "Tuiles aux amandes",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nAvec une fourchette, mélanger les blancs d’œufs et le sucre.\nRajouter la farine tamisée et le beurre mou mais pas fondu et les amandes effilées.\nAvec deux cuillères à café, disposer de petits tas sur une plaque (bien espacés).\nEnfourner à four moyen (Th5) pendant 8 à 10 min. Les bords doivent être dorés vers l’intérieur.\nAu sortir du four, les disposer sur le rouleau à pâtisserie pour leur donner la forme de la tuile."
+  },
+  {
+    "objectID": "cooking/dessert/gateau_yaourt.html",
+    "href": "cooking/dessert/gateau_yaourt.html",
+    "title": "Gâteau au yaourt",
+    "section": "",
+    "text": "1 yaourt (nature ou aromatisé)\n1/2 pot d’huile\n1 pot de sucre\n3 pots de farine\n2 œufs\n1 sachet de levure chimique\n1 sachet de sucre vanillé"
+  },
+  {
+    "objectID": "cooking/dessert/gateau_yaourt.html#ingrédients",
+    "href": "cooking/dessert/gateau_yaourt.html#ingrédients",
+    "title": "Gâteau au yaourt",
+    "section": "",
+    "text": "1 yaourt (nature ou aromatisé)\n1/2 pot d’huile\n1 pot de sucre\n3 pots de farine\n2 œufs\n1 sachet de levure chimique\n1 sachet de sucre vanillé"
+  },
+  {
+    "objectID": "cooking/dessert/gateau_yaourt.html#ustensiles",
+    "href": "cooking/dessert/gateau_yaourt.html#ustensiles",
+    "title": "Gâteau au yaourt",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nMoule à gâteau\nBol à mélanger\nFouet\nMarise"
+  },
+  {
+    "objectID": "cooking/dessert/gateau_yaourt.html#étapes",
+    "href": "cooking/dessert/gateau_yaourt.html#étapes",
+    "title": "Gâteau au yaourt",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nDans un saladier, verser le contenu du yaourt. Garder et utiliser le pot de yaourt pour le reste de la recette.\nAjouter un demi pot de yaourt d’huile et mélanger.\nAjouter 1 pot de sucre et mélanger.\nAjouter la levure + le sucre vanillé + les 3 pots de farine et mélanger.\nIncorporer les 2 œufs et mélanger jusqu’à pouvoir faire le ruban.\nSi envie, possible de rajouter des pépites de chocolat ou autre.\nPréchauffer le four à 180°C ?\nSi besoin beurrer le moule (beurre + farine) et verser le mélange dans le moule puis enfourner pendant 30 min (à surveiller).\nPour savoir si le gâteau est bien cuit, en plongeant un couteau il ne doit pas y avoir de mélange qui reste collé."
+  },
+  {
+    "objectID": "cooking/dessert/flan_patissier.html",
+    "href": "cooking/dessert/flan_patissier.html",
+    "title": "Flan patissier",
+    "section": "",
+    "text": "1 pâte feuilletée\n100g de poudre à flan pâtissier (impérial)\n1L de lait\n2 jaunes d’œuf\n130 de sucre"
+  },
+  {
+    "objectID": "cooking/dessert/flan_patissier.html#ingrédients",
+    "href": "cooking/dessert/flan_patissier.html#ingrédients",
+    "title": "Flan patissier",
+    "section": "",
+    "text": "1 pâte feuilletée\n100g de poudre à flan pâtissier (impérial)\n1L de lait\n2 jaunes d’œuf\n130 de sucre"
+  },
+  {
+    "objectID": "cooking/dessert/flan_patissier.html#ustensiles",
+    "href": "cooking/dessert/flan_patissier.html#ustensiles",
+    "title": "Flan patissier",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nCasserole\nFouet\nMarise"
+  },
+  {
+    "objectID": "cooking/dessert/flan_patissier.html#étapes",
+    "href": "cooking/dessert/flan_patissier.html#étapes",
+    "title": "Flan patissier",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nEtaler la pâte feuilletée dans un mouler et faire des trous avec une fourchette.\nPrendre deux saladiers. Dans le premier, mélanger 1/2L de lait avec le sucre et faire chauffer le mélange dans une casserole jusqu’à ébullition.\nDans le second saladier, mélanger la poudre à flan pâtissier avec 1/2L de lait. Ensuite, rajouter les deux jaunes d’œuf.\nUne fois le premier mélange arrivé à ébullition, couper le feu (enlever la casserole du feu) et incorporer doucement le second mélange en plusieurs fois tout en battant (et bien dans les coins pour éviter que cela ne brule).\nRemettre sur feu doux et continuer de mélanger avec le fouet jusqu’à épaississement (1-2min après épaississement).\nVerser le mélange dans le moule et laisser reposer 30min-1h pour faire « crouter » le dessus (et éviter que le flan n’explose à la cuisson).\nFaire cuire le flan 30min à 180°C sans ouvrir le four et continuer à cuire jusqu’à ce que le dessus ait une bonne couleur."
+  },
+  {
+    "objectID": "cooking/dessert/cookies.html",
+    "href": "cooking/dessert/cookies.html",
+    "title": "Cookies",
+    "section": "",
+    "text": "Pour 6 personnes / 16 cookies\n\n1 œuf\n85g de sucre\n85g de beurre doux\n150g de farine\n100g de pépites de chocolat ou de tablette de chocolat\n1 sachet de sucre vanillé\n1 c à c de levure chimique\n1/2 c à c de sel"
+  },
+  {
+    "objectID": "cooking/dessert/cookies.html#ingrédients",
+    "href": "cooking/dessert/cookies.html#ingrédients",
+    "title": "Cookies",
+    "section": "",
+    "text": "Pour 6 personnes / 16 cookies\n\n1 œuf\n85g de sucre\n85g de beurre doux\n150g de farine\n100g de pépites de chocolat ou de tablette de chocolat\n1 sachet de sucre vanillé\n1 c à c de levure chimique\n1/2 c à c de sel"
+  },
+  {
+    "objectID": "cooking/dessert/cookies.html#ustensiles",
+    "href": "cooking/dessert/cookies.html#ustensiles",
+    "title": "Cookies",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nPlaque de cuisson"
+  },
+  {
+    "objectID": "cooking/dessert/cookies.html#étapes",
+    "href": "cooking/dessert/cookies.html#étapes",
+    "title": "Cookies",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nLaisser ramollir le beurre à température ambiante. Dans un saladier, malaxer le avec le sucre.\nAjouter l’œuf et éventuellement le sucre vanillé.\nVerser progressivement la farine, la levure chimique, le sel et les pépites de chocolat. Mélanger bien.\nBeurrer une plaque allant au four ou la recouvrir d’une plaque de silicone. À l’aide de deux cuillères à soupe ou simplement avec les mains, former des noix de pâte en les espaçant car elles s’étaleront à la cuisson.\nFaire cuire 8 à 10 minutes à 180°C (thermostat 6). Il faut les sortir dès que les contours commencent à brunir.\n\nSource : Le journal des femmes https://cuisine.journaldesfemmes.fr/recette/310548-american-cookies"
+  },
+  {
+    "objectID": "cooking/dessert/cake_citron.html",
+    "href": "cooking/dessert/cake_citron.html",
+    "title": "Cake citron",
+    "section": "",
+    "text": "200g de sucre blanc\n2 citrons\n3 œufs\n10cL de crème liquide\n1 c à c de levure chimique\n190g de farine\n70g de beurre fondu\n2 c à soupe de graines de pavot\n250g de sucre glace"
+  },
+  {
+    "objectID": "cooking/dessert/cake_citron.html#ingrédients",
+    "href": "cooking/dessert/cake_citron.html#ingrédients",
+    "title": "Cake citron",
+    "section": "",
+    "text": "200g de sucre blanc\n2 citrons\n3 œufs\n10cL de crème liquide\n1 c à c de levure chimique\n190g de farine\n70g de beurre fondu\n2 c à soupe de graines de pavot\n250g de sucre glace"
+  },
+  {
+    "objectID": "cooking/dessert/cake_citron.html#ustensiles",
+    "href": "cooking/dessert/cake_citron.html#ustensiles",
+    "title": "Cake citron",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nMoule à cake de 25cm"
+  },
+  {
+    "objectID": "cooking/dessert/cake_citron.html#étapes",
+    "href": "cooking/dessert/cake_citron.html#étapes",
+    "title": "Cake citron",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nMélanger les 200g de sucre blanc avec le zest des deux citrons.\nAjouter les 3 œufs et mélanger (mélange blanchi).\nAjouter les 10cL de crème liquide et le jus d’un citron puis mélanger.\nAjouter une c à c de levure chimique et mélanger.\nIncorporer les 190g de farine en plusieurs fois.\nAjouter les 70g de beurre fondu refroidi et mélanger.\nAjouter les 2 c à soupe de graines de pavot.\nVerser le mélange dans le moule à cake et faire cuire pendant 1h à 160°C.\nFaire refroidir le cake avant de mettre le glaçage.\nPour le glaçage, mélanger les 250g de sucre glace avec le jus d’un citron. Verser progressivement le jus jusqu’à avoir un mélange liquide mais pas trop coulant (pour qu’il reste sur le cake). Verser le glaçage sur le cake et faire refroidir le cake."
+  },
+  {
+    "objectID": "cooking/dessert/brownie_citron.html",
+    "href": "cooking/dessert/brownie_citron.html",
+    "title": "Brownie citron",
+    "section": "",
+    "text": "Pour 16 parts\nBrownie au citron\n\n200g de sucre\n110g de beurre\n1 citron\n125g de chocolat blanc\n2 œufs\n2 c à c d’extrait de vanille\n160g de farine\n1/4 de c à c de sel\n\nGlaçage au citron\n\n125g de sucre en poudre\n2/3 c à s de jus de citron"
+  },
+  {
+    "objectID": "cooking/dessert/brownie_citron.html#ingrédients",
+    "href": "cooking/dessert/brownie_citron.html#ingrédients",
+    "title": "Brownie citron",
+    "section": "",
+    "text": "Pour 16 parts\nBrownie au citron\n\n200g de sucre\n110g de beurre\n1 citron\n125g de chocolat blanc\n2 œufs\n2 c à c d’extrait de vanille\n160g de farine\n1/4 de c à c de sel\n\nGlaçage au citron\n\n125g de sucre en poudre\n2/3 c à s de jus de citron"
+  },
+  {
+    "objectID": "cooking/dessert/brownie_citron.html#ustensiles",
+    "href": "cooking/dessert/brownie_citron.html#ustensiles",
+    "title": "Brownie citron",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nMoule à gâteau de 20x20cm\nBol à mélanger\nFouet\nMarise"
+  },
+  {
+    "objectID": "cooking/dessert/brownie_citron.html#étapes",
+    "href": "cooking/dessert/brownie_citron.html#étapes",
+    "title": "Brownie citron",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\nBrownie au citron\n\nPréchauffer le four à 160°C (four conventionnel). Préparer un moule carré de 20x20 cm avec du papier sulfurisé.\nFaire fondre le beurre et l’ajouter dans un petit bol. Ajouter les pépites de chocolat et mélanger jusqu’à ce qu’elles soient fondues. Mettre de côté.\nDans un autre grand bol, ajouter le sucre cristallisé et le zeste de citron. Frotter le tout pour libérer tout l’arôme de citron jusqu’à ce que le mélange ressemble à du sable mouillé. Ajouter le beurre fondu/le chocolat blanc au sucre et, à l’aide d’un fouet à main, mélanger le tout jusqu’à obtention d’une pâte homogène. Il se peut que le mélange ait l’air un peu fendu, mais ne vous inquiétez pas.\nAjouter les œufs et mélanger jusqu’à ce qu’ils soient incorporés. Une fois incorporés, continuez à bien les fouetter pendant 1 à 2 minutes pour qu’ils deviennent légers et mousseux.\nAjoutez ensuite le jus de citron et l’extrait de vanille et fouettez jusqu’à ce qu’ils soient combinés.\nAjouter les ingrédients secs à la pâte et fouetter délicatement jusqu’à ce qu’ils soient combinés.\nAjoutez la pâte à brownie dans le moule préparé et lissez-la à l’aide d’une spatule.\nFaire cuire au four pendant 30 à 32 minutes. Le brownie restera léger et ne brunira pas. Une fois cuit, laissez-le refroidir complètement sur une grille.\nUne fois complètement refroidi, le retirer du moule et le placer dans un plat de service pour préparer le glaçage au citron.\n\nGlaçage au citron\n\nDans un petit bol, ajouter le sucre en poudre et commencer par 2 cuillères à soupe de jus de citron. Mélanger jusqu’à obtention d’un mélange homogène. Ajouter plus de jus de citron si nécessaire ou jusqu’à ce que le mélange soit lisse.\nAjouter le glaçage au citron sur le brownie et l’étaler. Décorez éventuellement avec du zeste de citron. Laisser prendre à température ambiante. Vous pouvez également le placer au réfrigérateur pour qu’il prenne plus rapidement. Une fois que le glaçage a pris et s’est raffermi, il est prêt à être servi."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Thomas Muller",
+    "section": "",
+    "text": "Hello! I’m Thomas, a PhD student working at Orange Innovation and IRISA lab (France). My thesis topic is Audio compression using deep learning: the goal is to use artificial neural networks to develop the new generation of audio codecs.\nI attended the engineer school called Phelma from Grenoble INP group of engineer schools (Grenoble Alpes University). I specialized in signal and image processing and machine/deep learning.\nI love playing music: clarinet for more than 15 years, accordion for 3 years, and more recently piano. I had the chance to participate to 4 episodes of the amazing project Trina Orchestra. I also like to take photos and create communication visuals for my associations, see my portfolio.\nSome of my previous associations:"
+  },
+  {
+    "objectID": "cooking/dessert/butterbredele.html",
+    "href": "cooking/dessert/butterbredele.html",
+    "title": "Butterbredele",
+    "section": "",
+    "text": "7 jaunes d’œuf\n460g de farine\n230g de beurre\n230g de sucre\ndorure : jaune d’oeuf et lait"
+  },
+  {
+    "objectID": "cooking/dessert/butterbredele.html#ingrédients",
+    "href": "cooking/dessert/butterbredele.html#ingrédients",
+    "title": "Butterbredele",
+    "section": "",
+    "text": "7 jaunes d’œuf\n460g de farine\n230g de beurre\n230g de sucre\ndorure : jaune d’oeuf et lait"
+  },
+  {
+    "objectID": "cooking/dessert/butterbredele.html#ustensiles",
+    "href": "cooking/dessert/butterbredele.html#ustensiles",
+    "title": "Butterbredele",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nTamis\nRouleau à pâtisserie\nEmportes pièce\nPinceau\nPlaque de cuisson"
+  },
+  {
+    "objectID": "cooking/dessert/butterbredele.html#étapes",
+    "href": "cooking/dessert/butterbredele.html#étapes",
+    "title": "Butterbredele",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nTravaille en mousse le beurre ramolli, le sucre et les jaunes d’œuf.\nRajouter la farine tamisée.\nÉtaler la pâte au rouleau sur 1/2cm.\nDécouper à l’emporte pièce et les disposer sur la plaque à pâtisserie.\nLes badigeonner avec un mélange de jaune d’œuf et de lait.\nLes enfourner à four moyen 15 à 20 minute."
+  },
+  {
+    "objectID": "cooking/dessert/carrot_cake.html",
+    "href": "cooking/dessert/carrot_cake.html",
+    "title": "Carrot cake",
+    "section": "",
+    "text": "Pour 8 personnes (un moule à cake)\n\n90g d’huile végétale\n125g de sucre\n125g de farine fluide\n150g de carotte râpées (2 grosses carottes)\n2 œufs\n1 c à c d’extrait de vanille\n1/2 c à c rase de muscade\n1 c à c rase de cannelle\n1/2 sachet de levure chimique"
+  },
+  {
+    "objectID": "cooking/dessert/carrot_cake.html#ingrédients",
+    "href": "cooking/dessert/carrot_cake.html#ingrédients",
+    "title": "Carrot cake",
+    "section": "",
+    "text": "Pour 8 personnes (un moule à cake)\n\n90g d’huile végétale\n125g de sucre\n125g de farine fluide\n150g de carotte râpées (2 grosses carottes)\n2 œufs\n1 c à c d’extrait de vanille\n1/2 c à c rase de muscade\n1 c à c rase de cannelle\n1/2 sachet de levure chimique"
+  },
+  {
+    "objectID": "cooking/dessert/carrot_cake.html#ustensiles",
+    "href": "cooking/dessert/carrot_cake.html#ustensiles",
+    "title": "Carrot cake",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nRâpe à légume\nMoule à cake"
+  },
+  {
+    "objectID": "cooking/dessert/carrot_cake.html#étapes",
+    "href": "cooking/dessert/carrot_cake.html#étapes",
+    "title": "Carrot cake",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nMélanger au fouet les 2 œufs et le sucre.\nIncorporer l’extrait de vanille, la muscade, la cannelle et l’huile, mélanger avec le fouet.\nAjouter la farine et la levure, mélanger jusqu’à obtenir une pâte lisse.\nAjouter les carottes râpées, mélanger jusqu’à obtenir une pâte homogène.\nÉventuellement huiler et fariner le moule puis verser la préparation.\nEnfourner 30 à 40 minutes (plutôt 40 min pour éviter que le gâteau ne colle trop) selon le four à 175°C. Piquer pour vérifier que le gâteau soit cuit.\nOptionnel : ajouter un glaçage avec du sucre glace et de l’eau.\n\nSource : Marmiton - Carrot Cake : la vraie recette"
+  },
+  {
+    "objectID": "cooking/dessert/crumble_pomme.html",
+    "href": "cooking/dessert/crumble_pomme.html",
+    "title": "Crumble aux pommes",
+    "section": "",
+    "text": "Pour 8 personnes\n\n150g de farine\n150g de sucre (ou 100g de sucre et 50g de cassonade)\n150g de beurre (demi-sel ?)\n8 spéculoos\n6 pommes (ou 4 pommes et 2 poires)\n1 sachet de sucre vanillé\n2 c à s de sucre\n1/2 verre d’eau"
+  },
+  {
+    "objectID": "cooking/dessert/crumble_pomme.html#ingrédients",
+    "href": "cooking/dessert/crumble_pomme.html#ingrédients",
+    "title": "Crumble aux pommes",
+    "section": "",
+    "text": "Pour 8 personnes\n\n150g de farine\n150g de sucre (ou 100g de sucre et 50g de cassonade)\n150g de beurre (demi-sel ?)\n8 spéculoos\n6 pommes (ou 4 pommes et 2 poires)\n1 sachet de sucre vanillé\n2 c à s de sucre\n1/2 verre d’eau"
+  },
+  {
+    "objectID": "cooking/dessert/crumble_pomme.html#ustensiles",
+    "href": "cooking/dessert/crumble_pomme.html#ustensiles",
+    "title": "Crumble aux pommes",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nCasserole\nPlat à gâteau rectangulaire"
+  },
+  {
+    "objectID": "cooking/dessert/crumble_pomme.html#étapes",
+    "href": "cooking/dessert/crumble_pomme.html#étapes",
+    "title": "Crumble aux pommes",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nÉplucher les pommes (et les poires) et les couper en dés (grossièrement).\nFaire mijoter pendant 10 minutes (en tournant de temps en temps) les fruits coupés avec 1/2 verre d’eau, un sachet de sucre vanillé et 2 c à s de sucre.\nPréchauffer le four 10 minutes à 210°C.\nMélanger 150g de farine avec 150g de sucre (ou 100g de sucre et 50g de cassonade).\nAjouter les spéculoos émiettés et mélanger le tout.\nAjouter 150g de beurre coupé en dés. Le beurre doit être pommade pour être plus facilement travaillé.\nMalaxer le tout qui doit rester hétérogène. Prendre garde à ce que la préparation ne devienne pas une pâte sablée.\nMettre les fruits au fond du plat en prenant soin d’enlever l’excédent d’eau.\nÉmietter la pâte sur les fruits.\nMettre au four 20 minutes.\n\nSource : Marmiton - Crumble aux pommes poire et spéculoos"
+  },
+  {
+    "objectID": "cooking/dessert/galette_rois.html",
+    "href": "cooking/dessert/galette_rois.html",
+    "title": "Galette des rois",
+    "section": "",
+    "text": "2 disques de pâte feuilletée pur beurre\n125g de beurre\n125g de sucre\n2 œufs\n125g de poudre d’amande\n1 c à s de compote de pomme\n1 fève (facultatif)\ndorure : 1 jaune d’œuf et 1 c à c de lait"
+  },
+  {
+    "objectID": "cooking/dessert/galette_rois.html#ingrédients",
+    "href": "cooking/dessert/galette_rois.html#ingrédients",
+    "title": "Galette des rois",
+    "section": "",
+    "text": "2 disques de pâte feuilletée pur beurre\n125g de beurre\n125g de sucre\n2 œufs\n125g de poudre d’amande\n1 c à s de compote de pomme\n1 fève (facultatif)\ndorure : 1 jaune d’œuf et 1 c à c de lait"
+  },
+  {
+    "objectID": "cooking/dessert/galette_rois.html#ustensiles",
+    "href": "cooking/dessert/galette_rois.html#ustensiles",
+    "title": "Galette des rois",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nPinceau\nPlaque de cuisson"
+  },
+  {
+    "objectID": "cooking/dessert/galette_rois.html#étapes",
+    "href": "cooking/dessert/galette_rois.html#étapes",
+    "title": "Galette des rois",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nMélanger le beurre ramolli avec le sucre.\nAjouter les œufs puis la poudre d’amande et la compote.\nÉtaler le premier disque de pâte feuilleter et déposer la garniture sur la pâte en laissant 2cm de pâte vide sur le bord.\nAjouter la fève et mouiller le bord avec un pinceau.\nRecouvrer avec le deuxième disque de pâte feuilletée.\nAppuyer sur les bords pour les souder.\nMettre une première couche de dorure avec un pinceau et placer la galette au frais pour 30 min.\nPréchauffer le four à 200°C (Th 6/7).\nSortir la galette et étaler une deuxième couche de dorure au pinceau.\nFaire un décor avec le couteau et faire des petits trous.\nFaire cuire 30 minutes."
+  },
+  {
+    "objectID": "cooking/dessert/tarte_abricot.html",
+    "href": "cooking/dessert/tarte_abricot.html",
+    "title": "Tarte amandine aux abricots",
+    "section": "",
+    "text": "1 pâte sablée\n1 noisette de beurre\nquinze abricots\n\nCrème :\n\n50g de beurre mou\n50g de sucre\n50g de poudre d’amande\n1 œuf"
+  },
+  {
+    "objectID": "cooking/dessert/tarte_abricot.html#ingrédients",
+    "href": "cooking/dessert/tarte_abricot.html#ingrédients",
+    "title": "Tarte amandine aux abricots",
+    "section": "",
+    "text": "1 pâte sablée\n1 noisette de beurre\nquinze abricots\n\nCrème :\n\n50g de beurre mou\n50g de sucre\n50g de poudre d’amande\n1 œuf"
+  },
+  {
+    "objectID": "cooking/dessert/tarte_abricot.html#ustensiles",
+    "href": "cooking/dessert/tarte_abricot.html#ustensiles",
+    "title": "Tarte amandine aux abricots",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nMoule à tarte"
+  },
+  {
+    "objectID": "cooking/dessert/tarte_abricot.html#étapes",
+    "href": "cooking/dessert/tarte_abricot.html#étapes",
+    "title": "Tarte amandine aux abricots",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nManger le beurre mou avec le sucre puis incorporer la poudre d’amandes et l’œuf. Fouetter vivement.\nBadigeonner de beurre un moule à tarte. Le garnir de pâte sablé. Piquer le fond.\nPréparer et étaler la crème.\nDécouper les abricots en quartiers et les disposer debout dans la crème.\nCuire dan un four préchauffé à 210°C (Th 7) pendant 30 minutes.\nÀ la sortie du four, soupoudrer de sucre en poudre."
+  },
+  {
+    "objectID": "cooking/plat/baguette_apero.html",
+    "href": "cooking/plat/baguette_apero.html",
+    "title": "Baguette apéro",
+    "section": "",
+    "text": "2 baguettes\n\nFarce :\n\n1 St Moret familial (250g)\n100g de beurre fondu\n2 tranches de jambon coupées en petits morceaux\n2 œufs durs coupés en petits morceaux\n4 ou 5 cornichons coupés en petits morceaux\nsel et poivre\n200g de gruyère râpé\n2 c à s de moutarde (facultatif)\n3 c à s de câpres (facultatif)"
+  },
+  {
+    "objectID": "cooking/plat/baguette_apero.html#ingrédients",
+    "href": "cooking/plat/baguette_apero.html#ingrédients",
+    "title": "Baguette apéro",
+    "section": "",
+    "text": "2 baguettes\n\nFarce :\n\n1 St Moret familial (250g)\n100g de beurre fondu\n2 tranches de jambon coupées en petits morceaux\n2 œufs durs coupés en petits morceaux\n4 ou 5 cornichons coupés en petits morceaux\nsel et poivre\n200g de gruyère râpé\n2 c à s de moutarde (facultatif)\n3 c à s de câpres (facultatif)"
+  },
+  {
+    "objectID": "cooking/plat/baguette_apero.html#ustensiles",
+    "href": "cooking/plat/baguette_apero.html#ustensiles",
+    "title": "Baguette apéro",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nPapier aluminium\nCouteau électrique (facultatif)"
+  },
+  {
+    "objectID": "cooking/plat/baguette_apero.html#étapes",
+    "href": "cooking/plat/baguette_apero.html#étapes",
+    "title": "Baguette apéro",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nPrendre les baguettes, les couper en deux comme un sandwich et enlever le plus de mie possible.\nBien mélanger la farce.\nFourrer le baguettes avec la farce.\nRefermer le baguettes et enlever la farce qui dépasse.\nEnrouler les baguettes dans du papier aluminium comme un saucisson.\nMettre au four 20 minutes à 180°C.\nLaisser refroidir et mettre au frigo jusqu’au lendemain.\nDécouper la baguette en tranches (avec un couteau électrique) juste avant de servir."
+  },
+  {
+    "objectID": "cooking/plat/croissant_jambon.html",
+    "href": "cooking/plat/croissant_jambon.html",
+    "title": "Croissants au jambon",
+    "section": "",
+    "text": "Pour 6 croissants :\n\n6 croissants\nbéchamel avec au moins 250 mL de lait\ngruyère râpé\n4 tranches de jambon"
+  },
+  {
+    "objectID": "cooking/plat/croissant_jambon.html#ingrédients",
+    "href": "cooking/plat/croissant_jambon.html#ingrédients",
+    "title": "Croissants au jambon",
+    "section": "",
+    "text": "Pour 6 croissants :\n\n6 croissants\nbéchamel avec au moins 250 mL de lait\ngruyère râpé\n4 tranches de jambon"
+  },
+  {
+    "objectID": "cooking/plat/croissant_jambon.html#ustensiles",
+    "href": "cooking/plat/croissant_jambon.html#ustensiles",
+    "title": "Croissants au jambon",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nCasserole\nPlaque de cuisson"
+  },
+  {
+    "objectID": "cooking/plat/croissant_jambon.html#étapes",
+    "href": "cooking/plat/croissant_jambon.html#étapes",
+    "title": "Croissants au jambon",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nPréparer la béchamel\nCouper les croissants en deux et insérer de la béchamel.\nAjouter le jambon, de nouveau de la béchamel et le gruyère râpé.\nSi envie, possibilité de rajouter de la béchamel sur le croissant avec un peu de gruyère rapé."
+  },
+  {
+    "objectID": "cooking/plat/quiche_lorraine.html",
+    "href": "cooking/plat/quiche_lorraine.html",
+    "title": "Quiche lorraine",
+    "section": "",
+    "text": "1 pâte feuillée ou brisée\n200g de lardons fumés\n3 œufs\n100mL de lait\n200-300g de crème fraiche épaisse entière"
+  },
+  {
+    "objectID": "cooking/plat/quiche_lorraine.html#ingrédients",
+    "href": "cooking/plat/quiche_lorraine.html#ingrédients",
+    "title": "Quiche lorraine",
+    "section": "",
+    "text": "1 pâte feuillée ou brisée\n200g de lardons fumés\n3 œufs\n100mL de lait\n200-300g de crème fraiche épaisse entière"
+  },
+  {
+    "objectID": "cooking/plat/quiche_lorraine.html#ustensiles",
+    "href": "cooking/plat/quiche_lorraine.html#ustensiles",
+    "title": "Quiche lorraine",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nPlat à tarte\nBol à mélanger"
+  },
+  {
+    "objectID": "cooking/plat/quiche_lorraine.html#étapes",
+    "href": "cooking/plat/quiche_lorraine.html#étapes",
+    "title": "Quiche lorraine",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nPréchauffer le four à 180°C\nAppliquer la pâte feuilletée dans le moule (en gardant le papier sulfu présent dans l’emballage) et enlever les bords qui dépassent. Faire des trous avec une fourchette (fond voire également sur les côtés) pour éviter que la pâte gonfle\nRajouter les lardons sur la pâte feuilletée (possible de les faire légèrement cuire avant)\nPréparation de l’appareil œuf-lait-crème.\nCasser trois œufs et les mélanger avec sel + poivre (pas trop de sel car les lardons sont déjà salés)\nIncorporer la crème et mélanger\nRajouter un peu de lait et mélanger\nUne fois le four chaud (pour ne pas détremper la pâte feuilletée/brisée avec l’appareil), verser l’appareil dans le moule et enfourner pendant 30 min. Rajouter le temps nécessaire pour obtenir une bonne couleur générale de la quiche"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Welcome to my website! You can find more about me, my research work, some of my personal creative productions and a collection of links to interesting resources."
+  },
+  {
+    "objectID": "portfolio.html#digital-art",
+    "href": "portfolio.html#digital-art",
+    "title": "Portfolio",
+    "section": "🎨 Digital art",
+    "text": "🎨 Digital art\n\n🪧 Event banners\n   \n\n\n📜 Posters\n     \n\n\nLogo\n\n\n\n\n\n\n\n🎥 Video thumbnail\n \n\n\n👨‍🚀 Presentation cards\n \n\n\n🎲 Other"
+  }
+]
