@@ -8,3 +8,5 @@ _quarto.yml
 
 *.qmd
 
+
+/.quarto/
