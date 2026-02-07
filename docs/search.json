@@ -2,161 +2,161 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "",
     "text": "Animation Vincent Mazet: signal processing animations in JavaScript.\nInteractive plots, intro to DSP: (digital) signal processing animations.\n\n\n\nGaussianWaves: signal processing for communication systems.\nWireless Pi: signal processing for communication systems.\nInterstices: some articles on signal processing.\nMFCC et filtres Mel: blog on speech processing, MFCCs coefficients and filterbanks for mel-spectral analysis.\n\n\n\nCours traitement du signal (partie 1) - Vincent Mazet (partie 2) (🇫🇷): french signal processing lessons by Vincent Mazet from Télécom Physique Strasbourg.\nVidéos YouTube - Barry Van Veen: YouTube channel on signal processing.\nDigital Signal Theory: signal processing lessons.\n\n\n\nDigital Audio Resampling: website on digital audio resampling.\nOverdub: voice cloning and TTS (and other tools).\nArsonor - Sound Design in the box (🇫🇷): sound artist website (in french) with articles on the use of audio filters, EQ and more.\nGIF scales in audio: GIF to show the different scales of an audio signal.\nAES tutorial on coding artifacts: tutorial from the Audio Engineering Society (AES) explaining the basis principles of audio coding and typical audio artifacts.\nSpeech Processing Lesson Aalto: speech processing lesson from Aalto university, with interesting chapters on evaluation methods (objective and subjective)."
   },
   {
     "objectID": "resources.html#animations",
     "href": "resources.html#animations",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "",
     "text": "Animation Vincent Mazet: signal processing animations in JavaScript.\nInteractive plots, intro to DSP: (digital) signal processing animations."
   },
   {
     "objectID": "resources.html#blogs",
     "href": "resources.html#blogs",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "",
     "text": "GaussianWaves: signal processing for communication systems.\nWireless Pi: signal processing for communication systems.\nInterstices: some articles on signal processing.\nMFCC et filtres Mel: blog on speech processing, MFCCs coefficients and filterbanks for mel-spectral analysis."
   },
   {
     "objectID": "resources.html#lessons",
     "href": "resources.html#lessons",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "",
     "text": "Cours traitement du signal (partie 1) - Vincent Mazet (partie 2) (🇫🇷): french signal processing lessons by Vincent Mazet from Télécom Physique Strasbourg.\nVidéos YouTube - Barry Van Veen: YouTube channel on signal processing.\nDigital Signal Theory: signal processing lessons."
   },
   {
     "objectID": "resources.html#audio",
     "href": "resources.html#audio",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "",
     "text": "Digital Audio Resampling: website on digital audio resampling.\nOverdub: voice cloning and TTS (and other tools).\nArsonor - Sound Design in the box (🇫🇷): sound artist website (in french) with articles on the use of audio filters, EQ and more.\nGIF scales in audio: GIF to show the different scales of an audio signal.\nAES tutorial on coding artifacts: tutorial from the Audio Engineering Society (AES) explaining the basis principles of audio coding and typical audio artifacts.\nSpeech Processing Lesson Aalto: speech processing lesson from Aalto university, with interesting chapters on evaluation methods (objective and subjective)."
   },
   {
     "objectID": "resources.html#animations---visualizations",
     "href": "resources.html#animations---visualizations",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "👓 Animations - visualizations",
     "text": "👓 Animations - visualizations\nAnimations on convolution: animations to understand the role of each parameter for deep learning 2D convolutions.\nConvolution Visualizer: interactive animation of a convolution.\nNeural network architecture visualization: website to generate figures or neural network architectures with three styles: fully-connected, LeNet or AlexNet.\nTransposed convolution understanding/visualization: to understand and visualize transposed convolutions.\nImage filtering demo: demo on image filtering with filters/kernels to detect object edges.\nLLM Visualization: website to visualize and understand Large Language Models (LLMs).\nDeep Visualization Toolbox: visualization toolbox of feature maps from an image. associated video.\nLaTeX architecture visualization: visualization with LaTeX or well-known neural network architectures.\nLive and animated MNIST classification: interactive website showing the solving of the MNIST classification problem by a COnvolutional Neural Network (CNN).\nPolo Club of Data Science · GitHub: GitHub page of a research team dedicated to the creation of interactive website about Deep Learning, including:\n\nCNN Explainer: CNN feature maps visualization.\nGAN Lab: Play with Generative Adversarial Networks in Your Browser!: GAN training “lab”.\nDiffusion Explainer: Stable Diffusion Explained with Visualization: diffusion process explanation.\n\nSummit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations (fredhohman.com): CNN learned features visualization.\nWhy Momentum Really Works: animated blog on the principle behind momentum in optimizers.\nLosslanscapes: loss landscape visualization."
   },
   {
     "objectID": "resources.html#lessons-1",
     "href": "resources.html#lessons-1",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "✍️ Lessons",
     "text": "✍️ Lessons\nCS 230 -Deep Learning - Standford: reminders on deep learning, from Stanford’s Deep Learning Courses.\nThe Illustrated Machine Learning Website: nicely illustraded website on Machine Learning.\nCours DL New York en français (🇫🇷): New York Univertity Deep Learning Lessons translated in french.\nLLM Course: lots of tutorial and diverse pieces of information about LLMs.\nEfficient Deep Learning: book on complexity reduction techniques in neural networks and other subjects.\nFormation Jean Zay: documentation to optimize the training of Deep Learning models on the supercomputer Jean Zay."
   },
   {
     "objectID": "resources.html#blogs-1",
     "href": "resources.html#blogs-1",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "💻 Blogs",
     "text": "💻 Blogs\nHow to train GAN: tricks and advices on GAN training.\nBackprop of CNN is convolution: Medium article showing how the backpropagation in a convolution layer is itself a convolution.\nGroup convolution explanation: interesting explanations and animations on group convolutions.\nArticle on checkerboard artifacts after transposed convolution: article showing the problem or chechkerboard artifacts arising when using transposed convolution if not proper set.\nDistill: collection of interactive blog posts.\nReceptive field computation: explanations and formulas to compute the receptive field of a CNN. Other links: https://blog.mlreview.com/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807 and https://medium.com/@rekalantar/receptive-fields-in-deep-convolutional-networks-43871d2ef2e9\nBlog on loss vizualization: blog on mode connectivity related to loss landscape.\nDeep Visualization: blog on feature maps visualization."
   },
   {
     "objectID": "resources.html#miscellaneous",
     "href": "resources.html#miscellaneous",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "🎲 Miscellaneous",
     "text": "🎲 Miscellaneous\nFlops counting tool for PyTorch: python script to compute a theoretical number of operations for PyTorch CNNs.\nGitHub DNN Training Alexandre Defossez: GitHub with tips and base code for neural network training, with links for other resources.\nMojo - new programming language for all AI developers: new programing language for IA compining the experience of Python with performance from C.\nSnapshot mémoire CUDA avec PyTorch: visualization tool to show the memomry used by CUDA."
   },
   {
     "objectID": "resources.html#note-taking-and-document-creation",
     "href": "resources.html#note-taking-and-document-creation",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "📝 Note taking and document creation",
     "text": "📝 Note taking and document creation\n\nMarkdown\nCommonMark: learn Markdown basis in 1 minute\n\n\nLaTeX\nBeamer template: nice Beamer template\nNemo Fournier’s website: website of a PhD stude, with some advices on LaTeX\nTables Generator: tool website to easily create LaTeX tables\n\n\nSlides\nSlides.com: online (not free) editor to create slides with Reveal.js\nQuarto: create slides, website, interactive documents and more from Markdown syntax codes"
   },
   {
     "objectID": "resources.html#visualisation",
     "href": "resources.html#visualisation",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "👓 Visualisation",
     "text": "👓 Visualisation\nData to Viz: help to choose the right type of diagram depending on the data to visualize.\nExcalidraw: online drawing, with possible integration to Obsidian through an extension.\nPeriodic table of visualization methods: visualization methods periodic table."
   },
   {
     "objectID": "resources.html#linux",
     "href": "resources.html#linux",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "🤓 Linux",
     "text": "🤓 Linux\nExplainShell.com: website to understand the meaning of any shell command line.\nThe Art of Command Line: GitHub referencing the basis in using the shell Linux console and the command lines."
   },
   {
     "objectID": "resources.html#research",
     "href": "resources.html#research",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "🥼 Research",
     "text": "🥼 Research\nSigPort: IEEE website where posters and slides from IEEE conferences can be uploaded.\nLitmaps: search tool to find related articles from a given article, with a visual interface.\nDoctostat (🇫🇷): french website on the future of PhDs."
   },
   {
     "objectID": "resources.html#miscellaneous-1",
     "href": "resources.html#miscellaneous-1",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "🎲 Miscellaneous",
     "text": "🎲 Miscellaneous\nGit Cheat Sheet: help to use Git.\nLearn Git branching: playful way to learn Git branching.\nMake a README: advices on README writing.\nKeep a changelog: website on good practice about having a changelog file to inform users about important changes in a code.\nTables generator: easy creation of tables for LaTeX and Markdown."
   },
   {
     "objectID": "resources.html#environnement-de-travail",
     "href": "resources.html#environnement-de-travail",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "Environnement de travail",
     "text": "Environnement de travail\n\n🐍 Coder en Python\nInstallation direct de Python : https://www.python.org/downloads/\nInstallation via Anaconda : https://www.anaconda.com/download/success\nInstallation via Miniconda : https://docs.anaconda.com/free/miniconda/index.html Version minimale de Anaconda\n\n\n💻 Environnement de développement\nVSCode : https://code.visualstudio.com/Download Ajouter l’extension Python\nPyCharm : https://www.jetbrains.com/pycharm/download/ Eventuellement, prendre la version PyCharm Community Edition\nSpyder : https://www.spyder-ide.org/ Inclut avec Anaconda\n\n\n🛠️ Librairies Python\n\n👶 Librairies standards\nL’ensemble des librairies standards de Python est consultable ici : https://docs.python.org/3/library/index.html. Celles principalement utilisées sont les suivantes :\nmath : https://docs.python.org/3/library/math.html Fonctions mathématiques. Voir cmath pour des fonctions pour les nombres complexes.\nrandom : https://docs.python.org/fr/3/library/random.html Génération de nombres aléatoires. Fonctionnalité aussi disponible dans d’autres librairies scientifiques.\nos et os.path : https://docs.python.org/fr/3.7/library/os.html Interface avec le système d’exploitation. Très utilisé pour la gestion des fichiers et des chemins de fichier.\nPathlib : https://docs.python.org/3/library/pathlib.html Librairie pour gérer les chemins d’accès de fichier sans se préoccuper des spécificités liées au système d’exploitation utilisé.\nargparse : https://docs.python.org/3/library/argparse.html Module de création d’interface en ligne de commande (CLI).\ntime : https://docs.python.org/3/library/time.html Mesure du temps d’exécution d’une portion de code.\nsubprocess : https://docs.python.org/3/library/subprocess.html Exécution de lignes de commande depuis Python.\n\n\n🔬 Librairies scientifiques usuelles\nNumPy : https://numpy.org/ Librairie fondamentale pour le calcul sur des tableaux multidimensionnels.\nMatplotlib : https://matplotlib.org/ Création de figures et graphiques en Python.\nSciPy : https://scipy.org/ Librairie de calcul mathématique : optimisation, intégration, interpolation, équations algébriques, etc.\nOpenCV : https://opencv.org/ Librairie pour le traitement d’image et la vision par ordinateur.\n\n\n🧠 Librairies de Machine Learning (ML) et Deep Learning (DL)\nscikit-learn : https://scikit-learn.org/ Librairie de ML pour les taches de classification, régression, clustering, réduction de dimensionalité, etc.\nPyTorch : https://pytorch.org/ Librairie de DL créée par Meta, très utilisée en recherche.\nTensorFlow : https://www.tensorflow.org/ Librairie de DL créée par Google. Souvent utilisé avec Keras.\nKeras : https://keras.io/ Framework Python de DL qui permet une manipulation de haut niveau, initialement pour le backend TensorFlow, mais supporte également PyTorch et JAX depuis Keras 3.\nJAX : https://jax.readthedocs.io/ Librairie de DL orientée pour le calcul accéléré (JIT, XLA).\nPyTorch Lightning : https://lightning.ai/docs/pytorch/stable/ Framework pour PyTorch pour simplifier l’écriture de code.\n\n\n🎲 Autres librairies utiles\nTQDM : https://tqdm.github.io/ Création de barres de chargement.\nSoundfile : https://python-soundfile.readthedocs.io/ Lecture et écriture de fichiers audio.\nEinops : https://einops.rocks/ Librairie pour faciliter et rendre plus lisible la manipulation des tenseurs, en particulier pour les transpositions.\nTorchInfo : https://github.com/tyleryep/torchinfo Librairie permettant d’afficher l’architecture d’un modèle et la taille des tenseurs à chaque couche du réseau quand on utilise PyTorch.\nBroadcasting : https://numpy.org/doc/stable/user/basics.broadcasting.html Utilisation puissante des tenseurs NumPy pour certains calculs (aussi valable pour TensorFlow et PyTorch)."
   },
   {
     "objectID": "resources.html#ressources-deep-learning-1",
     "href": "resources.html#ressources-deep-learning-1",
-    "title": "Resources",
+    "title": "Ressources",
     "section": "Ressources Deep Learning",
     "text": "Ressources Deep Learning\n\n🔗 Sites internet\nVisualisation architecture réseaux : https://alexlenail.me/NN-SVG/index.html Site internet permettant de visualiser quelques réseaux de neurones (fully-connected et convolution).\nPrincipe convolution images : https://deeplizard.com/resource/pavq7noze2 Animation sur le principe de la convolution d’une image par un filtre.\nConvolution Visualizer : https://ezyang.github.io/convolution-visualizer/ Visualisation des convolutions en fonction de la taille de l’entrée, de la taille du kernel et des autres paramètres de padding, dilatation et stride.\nArithmétique des convolutions : https://github.com/vdumoulin/conv_arithmetic Toutes les formules pour calculer les tailles des tenseurs en entrée et sortie des couches de convolution, et visualiser les effets des différents paramètres associés.\nMachine Learning illustré : https://illustrated-machine-learning.github.io/ Site internet avec des illustrations sympathiques sur le ML et DL.\nPense-bêtes DL : https://stanford.edu/~shervine/l/fr/teaching/cs-230/ Pense-bêtes provenant du cours de Stanford CS 230. Il y a aussi des choses intéressantes pour CS 229.\nConvolutions groupées : https://blog.yani.ai/filter-group-tutorial/ Blog expliquant le principe des convolutions groupées.\nConvolutions transposées : https://deeplizard.com/resource/pavq7noze4 Blog expliquant le principe des convolutions transposées.\nVisualisation champ récepteur convolutions : https://distill.pub/2019/computing-receptive-fields/ Site internet pour visualiser le champ récepteur équivalent de plusieurs couches de convolutions.\nLLM Visualization : https://bbycroft.net/llm Site internet pour visualiser l’architecture des LLMs (Large Language Models).\nCours LLMs : https://github.com/mlabonne/llm-course Large collection d’informations sur les LLMs.\nDistill : https://distill.pub/ Blog d’articles interactifs en lien avec l’IA.\n\n\n🎥 Vidéos\nFidle CNRS : https://fidle.cnrs.fr/ Cours d’IA donné tous les ans par le CNRS.\nCours de Stanford : https://www.youtube.com/@stanfordonline Beaucoup de cours d’IA de Stanford.\nChaîne YouTube The AI Epiphany : https://www.youtube.com/@TheAIEpiphany Vidéos sur l’IA s’appuyant sur les articles de recherche associés.\nMachine Learnia : https://www.youtube.com/@MachineLearnia Cours en français ML et DL.\n\n\n📚 Livres\nThe Little Book of Deep Learning : https://fleuret.org/francois/lbdl.html Petit livre en format téléphone contenant de nombreuses connaissances de base en Deep Learning.\nHands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Livre mélangeant la théorie et la pratique avec une partie sur le ML et l’autre sur le DL. Les notebooks sont disponibles ici : https://github.com/ageron/handson-ml3\nDeep Learning : https://www.deeplearningbook.org/ Une référence très connue, beaucoup plus d’un point de vue mathématique (pas vraiment du point de vue pratique)."
   },
   {
     "objectID": "papers.html",
     "href": "papers.html",
-    "title": "Papers",
+    "title": "Publications",
     "section": "",
     "text": "Spherical Lattice Vector Quantization in Neural Audio Coding [Source][PDF]\nThomas Muller, Stéphane Ragot and Pascal Scalart\nEuropean Signal Processing Conference (EUSIPCO), 2025, Palermo, Sicily\n \nÉtude comparative de qualité des codecs audio neuronaux – cas de la musique et du contenu mixte parole/musique [Source][PDF][Poster]\nThomas Muller, Stéphane Ragot, Laetitia Gros et Pascal Scalart\n30ème Colloque Francophone de Traitement du Signal et des Images (GRETSI), 2025, Strasbourg, France"
   },
   {
     "objectID": "papers.html#section",
     "href": "papers.html#section",
-    "title": "Papers",
+    "title": "Publications",
     "section": "",
     "text": "Spherical Lattice Vector Quantization in Neural Audio Coding [Source][PDF]\nThomas Muller, Stéphane Ragot and Pascal Scalart\nEuropean Signal Processing Conference (EUSIPCO), 2025, Palermo, Sicily\n \nÉtude comparative de qualité des codecs audio neuronaux – cas de la musique et du contenu mixte parole/musique [Source][PDF][Poster]\nThomas Muller, Stéphane Ragot, Laetitia Gros et Pascal Scalart\n30ème Colloque Francophone de Traitement du Signal et des Images (GRETSI), 2025, Strasbourg, France"
   },
   {
     "objectID": "papers.html#section-1",
     "href": "papers.html#section-1",
-    "title": "Papers",
+    "title": "Publications",
     "section": "2024",
     "text": "2024\nEvaluation of Objective Quality Models on Neural Audio Codecs [Source][PDF][Poster]\nThomas Muller, Stéphane Ragot, Vincent Barriac and Pascal Scalart\n18th International Workshop on Acoustic Signal Enhancement (IWAENC), 2024, Aalborg, Denmark\n \nSpeech quality evaluation of neural audio codecs [Source][PDF][Poster]\nThomas Muller, Stephane Ragot, Laetitia Gros, Pierrick Philippe and Pascal Scalart\nInterspeech, 2024, Kos Island, Greece\n \nPost-Training Latent Dimension Reduction in Neural Audio Coding [Source][PDF][Poster]\nThomas Muller, Stéphane Ragot, Pierrick Philippe, Pascal Scalart\nEuropean Signal Processing Conference (EUSIPCO), 2024, Lyon, France\n \nAmélioration de codecs de parole par modèle de diffusion [Source]\nRomain Buguet, Stéphane Ragot et Thomas Muller\nCOmpression et REprésentation des Signaux Audiovisuels (CORESA), 2024, Rennes, France"
   },
   {
     "objectID": "papers.html#section-2",
     "href": "papers.html#section-2",
-    "title": "Papers",
+    "title": "Publications",
     "section": "2023",
     "text": "2023\nQuantification optimisée de l’espace latent en codage audio neuronal [Source][PDF]\nThomas Muller, Stéphane Ragot, Quentin Lemesle, Pierrick Philippe et Pascal Scalart\nXXIXème Colloque Francophone de Traitement du Signal et des Images (GRETSI), 2023, Grenoble, France"
   },
   {
     "objectID": "cooking.html",
     "href": "cooking.html",
-    "title": "Cooking",
+    "title": "Cuisine",
     "section": "",
     "text": "Baguette apéro\nBéchamel\nCroissant au jambon\nQuiche lorraine\nQuiche brocolis poulet tomate\n\nCompilation de recettes de plats de Cyril Lignac de l’émission Tous en cuisine : [Livre]"
   },
   {
     "objectID": "cooking.html#salé",
     "href": "cooking.html#salé",
-    "title": "Cooking",
+    "title": "Cuisine",
     "section": "",
     "text": "Baguette apéro\nBéchamel\nCroissant au jambon\nQuiche lorraine\nQuiche brocolis poulet tomate\n\nCompilation de recettes de plats de Cyril Lignac de l’émission Tous en cuisine : [Livre]"
   },
   {
     "objectID": "cooking.html#sucré",
     "href": "cooking.html#sucré",
-    "title": "Cooking",
+    "title": "Cuisine",
     "section": "🧁 Sucré",
     "text": "🧁 Sucré\n\nBrownie citron\nButterbredele\nCake citron\nCarrot cake\nCookies\nCrumble aux pommes\nFlan patissier\nGalette des rois\nGâteau au yaourt\nTarte amandine aux abricots\nTuiles aux amandes\n\nCompilation de recettes de desserts de Cyril Lignac de l’émission Tous en cuisine : [Livre]"
   },
@@ -385,13 +385,6 @@
     "text": "🔢 Étapes\nBrownie au citron\n\nPréchauffer le four à 160°C (four conventionnel). Préparer un moule carré de 20x20 cm avec du papier sulfurisé.\nFaire fondre le beurre et l’ajouter dans un petit bol. Ajouter les pépites de chocolat et mélanger jusqu’à ce qu’elles soient fondues. Mettre de côté.\nDans un autre grand bol, ajouter le sucre cristallisé et le zeste de citron. Frotter le tout pour libérer tout l’arôme de citron jusqu’à ce que le mélange ressemble à du sable mouillé. Ajouter le beurre fondu/le chocolat blanc au sucre et, à l’aide d’un fouet à main, mélanger le tout jusqu’à obtention d’une pâte homogène. Il se peut que le mélange ait l’air un peu fendu, mais ne vous inquiétez pas.\nAjouter les œufs et mélanger jusqu’à ce qu’ils soient incorporés. Une fois incorporés, continuez à bien les fouetter pendant 1 à 2 minutes pour qu’ils deviennent légers et mousseux.\nAjoutez ensuite le jus de citron et l’extrait de vanille et fouettez jusqu’à ce qu’ils soient combinés.\nAjouter les ingrédients secs à la pâte et fouetter délicatement jusqu’à ce qu’ils soient combinés.\nAjoutez la pâte à brownie dans le moule préparé et lissez-la à l’aide d’une spatule.\nFaire cuire au four pendant 30 à 32 minutes. Le brownie restera léger et ne brunira pas. Une fois cuit, laissez-le refroidir complètement sur une grille.\nUne fois complètement refroidi, le retirer du moule et le placer dans un plat de service pour préparer le glaçage au citron.\n\nGlaçage au citron\n\nDans un petit bol, ajouter le sucre en poudre et commencer par 2 cuillères à soupe de jus de citron. Mélanger jusqu’à obtention d’un mélange homogène. Ajouter plus de jus de citron si nécessaire ou jusqu’à ce que le mélange soit lisse.\nAjouter le glaçage au citron sur le brownie et l’étaler. Décorez éventuellement avec du zeste de citron. Laisser prendre à température ambiante. Vous pouvez également le placer au réfrigérateur pour qu’il prenne plus rapidement. Une fois que le glaçage a pris et s’est raffermi, il est prêt à être servi."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Thomas Muller",
-    "section": "",
-    "text": "Hello! I’m Thomas, a PhD student working at Orange Innovation and IRISA lab (France). My thesis topic is Audio compression using deep learning: the goal is to use artificial neural networks to develop the new generation of audio codecs.\nI attended the engineer school called Phelma from Grenoble INP group of engineer schools (Grenoble Alpes University). I specialized in signal and image processing and machine/deep learning.\nI love playing music: clarinet for more than 15 years, accordion for 3 years, and more recently piano. I had the chance to participate to 4 episodes of the amazing project Trina Orchestra. I also like to take photos and create communication visuals for my associations, see my portfolio.\nSome of my previous associations:"
-  },
-  {
     "objectID": "cooking/dessert/butterbredele.html",
     "href": "cooking/dessert/butterbredele.html",
     "title": "Butterbredele",
@@ -618,9 +611,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome!",
+    "title": "Thomas Muller",
     "section": "",
-    "text": "Welcome to my website! You can find more about me, my research work, some of my personal creative productions and a collection of links to interesting resources."
+    "text": "Hello, ici Thomas ! Je suis docteur-ingénieur en traitement du signal et deep learning et je travaille actuellement comme ingénieur maturation R&D chez Ouest-Valorisation. Bienvenue sur mon site web, vous trouverez mes publications de recherche, une partie de mes créations artistiques personnelles et une collection de liens intéressants en rapport avec mon sujet d’étude et de travail.\nJe suis diplômé de l’école d’ingénieurs Grenoble INP - Phelma, UGA avec une spécialité en traitement du signal et des images et en intelligence artificielle (apprentissage automatique/deep learning).\nDans la foulée j’ai réalisé une thèse CIFRE chez Orange Innovation et le laboratoire IRISA à Lannion. Ma thèse, intitulée Compression audio monocanal par apprentissage profond porte sur l’utilisation des réseaux de neurones artificiels dans le développement de la prochaine génération de codecs audio.\nJe pratique la musique depuis des années : clarinnetiste depuis plus de 15 ans et chanteur (chant choral) depuis 3 ans, j’ai également fait 3 ans d’accordéon et plus récemment un peu de piano en autodidacte. J’ai eu la chance de participer à l’incroyable projet d’orchestre trinational européen Trina Orchestra. J’aime également prendre des photos et créer des communications visuelles (affiches, bannières, logos) pour mes différentes associations, consultables sur mon portfolio.\nQuelques unes de mes précédentes associations :"
   },
   {
     "objectID": "portfolio.html#digital-art",
