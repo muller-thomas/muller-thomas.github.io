@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Thomas Muller"
+  search: true
+  # search: https://quarto.org/docs/reference/projects/websites.html#search
+  #   location: navbar
+  #   type: overlay
+  navbar:
+    pinned: true # Always show the navbar (keeping it pinned).
+    collapse: true # Collapse the navbar into a menu when the display becomes narrow.
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: papers.qmd
+        text: Publications
+      - href: resources.qmd
+        text: Ressources
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: cooking.qmd
+        text: Cuisine
+    right:
+      - icon: github
+        href: https://github.com/muller-thomas
+  # back-to-top-navigation: true # Provide a ‘back to top’ navigation button
+  # page-footer:
+  #   border: false
+  #   center: 
+  #     - text: "About"
+  #       href: about.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    # theme:
+    #   light: flatly
+    #   dark: darkly
+    css: styles.css
+    link-external-newwindow: true
+    toc: true
+
+
+

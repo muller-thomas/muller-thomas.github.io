@@ -1,0 +1,352 @@
+---
+title: "Ressources"
+---
+
+
+
+
+# 🚀 Signal processing
+
+## 👓 Animations
+
+[Animation Vincent Mazet](https://vincmazet.github.io/spetsi/): signal processing animations in JavaScript.
+
+[Interactive plots, intro to DSP](https://gilleschardon.fr/signal/dsp_plots/): (digital) signal processing animations.
+
+## 💻 Blogs
+
+[GaussianWaves](https://www.gaussianwaves.com/): signal processing for communication systems.
+
+[Wireless Pi](https://wirelesspi.com/): signal processing for communication systems.
+
+[Interstices](https://interstices.info/?s=signal&fwp_sort=date_desc): some articles on signal processing.
+
+[MFCC et filtres Mel](https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html): blog on speech processing, MFCCs coefficients and filterbanks for mel-spectral analysis.
+
+## ✍️ Lessons
+
+[Cours traitement du signal (partie 1) - Vincent Mazet](https://vincmazet.github.io/signal1/) ([partie 2](https://vincmazet.github.io/signal2/)) (🇫🇷): french signal processing lessons by Vincent Mazet from Télécom Physique Strasbourg.
+
+[Vidéos YouTube - Barry Van Veen](https://www.youtube.com/user/allsignalprocessing): YouTube channel on signal processing.
+
+[Digital Signal Theory](https://brianmcfee.net/dstbook-site/content/intro.html): signal processing lessons.
+
+## 🎧 Audio
+
+[Digital Audio Resampling](https://ccrma.stanford.edu/~jos/resample/): website on digital audio resampling.
+
+[Overdub](https://www.descript.com/overdub): voice cloning and TTS (and other tools).
+
+[Arsonor - Sound Design in the box](https://arsonor.com/) (🇫🇷): sound artist website (in french) with articles on the use of audio filters, EQ and more.
+
+[GIF scales in audio](https://jvbalen.github.io/notes/waveform.html): GIF to show the different scales of an audio signal.
+
+[AES tutorial on coding artifacts](https://secure.aes.org/members/technical/cas/tutorial/index.cfm): tutorial from the Audio Engineering Society (AES) explaining the basis principles of audio coding and typical audio artifacts. 
+
+[Speech Processing Lesson Aalto](https://speechprocessingbook.aalto.fi/Evaluation/Subjective_quality_evaluation.html): speech processing lesson from Aalto university, with interesting chapters on evaluation methods (objective and subjective).
+
+
+# 🧠 Deep Learning
+
+## 👓 Animations - visualizations
+
+[Animations on convolution](https://github.com/vdumoulin/conv_arithmetic): animations to understand the role of each parameter for deep learning 2D convolutions.
+
+[Convolution Visualizer](https://ezyang.github.io/convolution-visualizer/): interactive animation of a convolution.
+
+[Neural network architecture visualization](http://alexlenail.me/NN-SVG/index.html): website to generate figures or neural network architectures with three styles: fully-connected, LeNet or AlexNet.
+
+[Transposed convolution understanding/visualization](https://deeplizard.com/resource/pavq7noze4): to understand and visualize transposed convolutions.
+
+[Image filtering demo](https://deeplizard.com/resource/pavq7noze2): demo on image filtering with filters/kernels to detect object edges.
+
+[LLM Visualization](https://bbycroft.net/llm): website to visualize and understand Large Language Models (LLMs).
+
+[Deep Visualization Toolbox](https://github.com/yosinski/deep-visualization-toolbox): visualization toolbox of feature maps from an image. [associated video](https://www.youtube.com/watch?v=AgkfIQ4IGaM).
+
+[LaTeX architecture visualization](https://github.com/HarisIqbal88/PlotNeuralNet): visualization with LaTeX or well-known neural network architectures.
+
+[Live and animated MNIST classification](https://adamharley.com/nn_vis/cnn/3d.html): interactive website showing the solving of the MNIST classification problem by a COnvolutional Neural Network (CNN).
+
+[Polo Club of Data Science · GitHub](https://github.com/poloclub): GitHub page of a research team dedicated to the creation of interactive website about Deep Learning, including:
+
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/): CNN feature maps visualization.
+- [GAN Lab: Play with Generative Adversarial Networks in Your Browser!](https://poloclub.github.io/ganlab/): GAN training "lab".
+- [Diffusion Explainer: Stable Diffusion Explained with Visualization](https://poloclub.github.io/diffusion-explainer/): diffusion process explanation.
+
+[Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations (fredhohman.com)](https://fredhohman.com/summit/): CNN learned features visualization.
+
+[Why Momentum Really Works](https://distill.pub/2017/momentum/): animated blog on the principle behind momentum in optimizers.
+
+[Losslanscapes](https://losslandscape.com/): loss landscape visualization.
+
+## ✍️ Lessons
+
+[CS 230 -Deep Learning - Standford](https://stanford.edu/~shervine/l/fr/teaching/cs-230/): reminders on deep learning, from Stanford's Deep Learning Courses.
+
+[The Illustrated Machine Learning Website](https://illustrated-machine-learning.github.io/): nicely illustraded website on Machine Learning.
+
+[Cours DL New York en français](https://lbourdois.github.io/cours-dl-nyu/) (🇫🇷): New York Univertity Deep Learning Lessons translated in french.
+
+[LLM Course](https://github.com/mlabonne/llm-course): lots of tutorial and diverse pieces of information about LLMs.
+
+[Efficient Deep Learning]([Efficient Deep Learning Book | Companion webpage to the book “Efficient Deep Learning”. (efficientdlbook.com)](https://efficientdlbook.com/)): book on complexity reduction techniques in neural networks and other subjects.
+
+[Formation Jean Zay](http://www.idris.fr/formations/dlo-jz/): documentation to optimize the training of Deep Learning models on the supercomputer Jean Zay.
+
+
+## 💻 Blogs
+
+[How to train GAN](https://github.com/soumith/ganhacks): tricks and advices on GAN training.
+
+[Backprop of CNN is convolution](https://pavisj.medium.com/convolutions-and-backpropagations-46026a8f5d2c): Medium article showing how the backpropagation in a convolution layer is itself a convolution.
+
+[Group convolution explanation](https://blog.yani.ai/filter-group-tutorial/): interesting explanations and animations on group convolutions.
+
+[Article on checkerboard artifacts after transposed convolution](https://distill.pub/2016/deconv-checkerboard/): article showing the problem or chechkerboard artifacts arising when using transposed convolution if not proper set.
+
+[Distill](https://distill.pub/): collection of interactive blog posts.
+
+[Receptive field computation](https://distill.pub/2019/computing-receptive-fields/): explanations and formulas to compute the receptive field of a CNN. Other links: https://blog.mlreview.com/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807 and https://medium.com/@rekalantar/receptive-fields-in-deep-convolutional-networks-43871d2ef2e9
+
+[Blog on loss vizualization](https://izmailovpavel.github.io/curves_blogpost/): blog on mode connectivity related to loss landscape.
+
+[Deep Visualization](https://yosinski.com/deepvis): blog on feature maps visualization.
+
+
+## 🎲 Miscellaneous
+
+[Flops counting tool for PyTorch](https://github.com/sovrasov/flops-counter.pytorch): python script to compute a theoretical number of operations for PyTorch CNNs.
+
+[GitHub DNN Training Alexandre Defossez](https://github.com/adefossez/dnn_theo_practice): GitHub with tips and base code for neural network training, with links for other resources.
+
+[Mojo - new programming language for all AI developers](https://www.modular.com/mojo): new programing language for IA compining the experience of Python with performance from C.
+
+[Snapshot mémoire CUDA avec PyTorch](https://pytorch.org/docs/stable/torch_cuda_memory.html#using-the-visualizer): visualization tool to show the memomry used by CUDA.
+
+
+
+# 🛠️ Tools, help and useful things
+
+## 📝 Note taking and document creation
+
+### Markdown
+
+[CommonMark](https://commonmark.org/help/): learn Markdown basis in 1 minute
+
+### LaTeX
+
+[Beamer template](https://github.com/anishathalye/auriga): nice Beamer template
+
+[Nemo Fournier's website](https://nemo.kiwi/latex.html): website of a PhD stude, with some advices on LaTeX
+
+[Tables Generator](https://tablesgenerator.com/): tool website to easily create LaTeX tables
+
+### Slides
+
+[Slides.com](https://slides.com/): online (not free) editor to create slides with Reveal.js
+
+[Quarto](https://quarto.org): create slides, website, interactive documents and more from Markdown syntax codes
+
+## 👓 Visualisation
+
+[Data to Viz](https://www.data-to-viz.com/): help to choose the right type of diagram depending on the data to visualize.
+
+[Excalidraw](https://excalidraw.com/): online drawing, with possible integration to Obsidian through an extension.
+
+[Periodic table of visualization methods](https://www.visual-literacy.org/periodic_table/periodic_table.html): visualization methods periodic table.
+
+
+## 🤓 Linux
+
+[ExplainShell.com](https://explainshell.com/): website to understand the meaning of any shell command line.
+
+[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line): GitHub referencing the basis in using the shell Linux console and the command lines.
+
+## 🥼 Research
+
+[SigPort](https://sigport.org/ieee-signal-processing-society): IEEE website where posters and slides from IEEE conferences can be uploaded.
+
+[Litmaps](https://app.litmaps.com/): search tool to find related articles from a given article, with a visual interface.
+
+[Doctostat](https://doctostat.doctorat.org/) (🇫🇷): french website on the future of PhDs.
+
+## 🎲 Miscellaneous
+
+[Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf): help to use Git.
+
+[Learn Git branching](https://learngitbranching.js.org/?locale=fr_FR): playful way to learn Git branching.
+
+[Make a README](https://www.makeareadme.com/): advices on README writing.
+
+[Keep a changelog](https://keepachangelog.com/en/1.0.0/): website on good practice about having a changelog file to inform users about important changes in a code.
+
+[Tables generator](https://tablesgenerator.com/): easy creation of tables for LaTeX and Markdown.
+
+
+# 🧠 Ressources Deep Learning (🇫🇷)
+___
+## Environnement de travail
+
+### 🐍 Coder en Python
+
+**Installation direct de Python** : https://www.python.org/downloads/
+
+**Installation via Anaconda** : https://www.anaconda.com/download/success
+
+**Installation via Miniconda** : https://docs.anaconda.com/free/miniconda/index.html
+Version minimale de Anaconda
+
+### 💻 Environnement de développement
+
+**VSCode** : https://code.visualstudio.com/Download
+Ajouter l'extension Python
+
+**PyCharm** : https://www.jetbrains.com/pycharm/download/
+Eventuellement, prendre la version PyCharm Community Edition
+
+**Spyder** : https://www.spyder-ide.org/
+Inclut avec Anaconda
+
+### 🛠️ Librairies Python
+#### 👶 Librairies standards
+L'ensemble des librairies standards de Python est consultable ici : https://docs.python.org/3/library/index.html.
+Celles principalement utilisées sont les suivantes :
+
+**math** : https://docs.python.org/3/library/math.html
+Fonctions mathématiques. Voir cmath pour des fonctions pour les nombres complexes.
+
+**random** : https://docs.python.org/fr/3/library/random.html
+Génération de nombres aléatoires. Fonctionnalité aussi disponible dans d'autres librairies scientifiques.
+
+**os** et **os.path** : https://docs.python.org/fr/3.7/library/os.html
+Interface avec le système d'exploitation. Très utilisé pour la gestion des fichiers et des chemins de fichier.
+
+**Pathlib** : https://docs.python.org/3/library/pathlib.html
+Librairie pour gérer les chemins d'accès de fichier sans se préoccuper des spécificités liées au système d'exploitation utilisé.
+
+**argparse** : https://docs.python.org/3/library/argparse.html
+Module de création d'interface en ligne de commande (CLI).
+
+**time** : https://docs.python.org/3/library/time.html
+Mesure du temps d'exécution d'une portion de code.
+
+**subprocess** : https://docs.python.org/3/library/subprocess.html
+Exécution de lignes de commande depuis Python.
+
+#### 🔬 Librairies scientifiques usuelles
+
+**NumPy** : https://numpy.org/
+Librairie fondamentale pour le calcul sur des tableaux multidimensionnels.
+
+**Matplotlib** : https://matplotlib.org/
+Création de figures et graphiques en Python.
+
+**SciPy** : https://scipy.org/
+Librairie de calcul mathématique : optimisation, intégration, interpolation, équations algébriques, etc.
+
+**OpenCV** : https://opencv.org/
+Librairie pour le traitement d'image et la vision par ordinateur.
+
+#### 🧠 Librairies de Machine Learning (ML) et Deep Learning (DL)
+
+**scikit-learn** : https://scikit-learn.org/
+Librairie de ML pour les taches de classification, régression, clustering, réduction de dimensionalité, etc.
+
+**PyTorch** : https://pytorch.org/
+Librairie de DL créée par Meta, très utilisée en recherche.
+
+**TensorFlow** : https://www.tensorflow.org/
+Librairie de DL créée par Google. Souvent utilisé avec Keras.
+
+**Keras** : https://keras.io/
+Framework Python de DL qui permet une manipulation de haut niveau, initialement pour le *backend* TensorFlow, mais supporte également PyTorch et JAX depuis Keras 3.
+
+**JAX** : https://jax.readthedocs.io/
+Librairie de DL orientée pour le calcul accéléré (JIT, XLA).
+
+**PyTorch Lightning** : https://lightning.ai/docs/pytorch/stable/
+Framework pour PyTorch pour simplifier l'écriture de code.
+
+#### 🎲 Autres librairies utiles
+
+**TQDM** : https://tqdm.github.io/
+Création de barres de chargement.
+
+**Soundfile** : https://python-soundfile.readthedocs.io/
+Lecture et écriture de fichiers audio.
+
+**Einops** : https://einops.rocks/
+Librairie pour faciliter et rendre plus lisible la manipulation des tenseurs, en particulier pour les transpositions.
+
+**TorchInfo** : https://github.com/tyleryep/torchinfo
+Librairie permettant d'afficher l'architecture d'un modèle et la taille des tenseurs à chaque couche du réseau quand on utilise PyTorch.
+
+**Broadcastin**g : https://numpy.org/doc/stable/user/basics.broadcasting.html
+Utilisation puissante des tenseurs NumPy pour certains calculs (aussi valable pour TensorFlow et PyTorch).
+
+___
+## Ressources Deep Learning
+
+### 🔗 Sites internet
+
+**Visualisation architecture réseaux** : https://alexlenail.me/NN-SVG/index.html
+Site internet permettant de visualiser quelques réseaux de neurones (fully-connected et convolution).
+
+**Principe convolution images** : https://deeplizard.com/resource/pavq7noze2
+Animation sur le principe de la convolution d'une image par un filtre.
+
+**Convolution Visualizer** : https://ezyang.github.io/convolution-visualizer/
+Visualisation des convolutions en fonction de la taille de l'entrée, de la taille du kernel et des autres paramètres de padding, dilatation et stride.
+
+**Arithmétique des convolutions** : https://github.com/vdumoulin/conv_arithmetic
+Toutes les formules pour calculer les tailles des tenseurs en entrée et sortie des couches de convolution, et visualiser les effets des différents paramètres associés.
+
+**Machine Learning illustré** : https://illustrated-machine-learning.github.io/
+Site internet avec des illustrations sympathiques sur le ML et DL.
+
+**Pense-bêtes DL** : [https://stanford.edu/~shervine/l/fr/teaching/cs-230/](https://stanford.edu/~shervine/l/fr/teaching/cs-230/)
+Pense-bêtes provenant du cours de Stanford CS 230. Il y a aussi des choses intéressantes pour CS 229.
+
+**Convolutions groupées** : https://blog.yani.ai/filter-group-tutorial/
+Blog expliquant le principe des convolutions groupées.
+
+**Convolutions transposées** : https://deeplizard.com/resource/pavq7noze4
+Blog expliquant le principe des convolutions transposées.
+
+**Visualisation champ récepteur convolutions** : https://distill.pub/2019/computing-receptive-fields/
+Site internet pour visualiser le champ récepteur équivalent de plusieurs couches de convolutions.
+
+**LLM Visualization** : https://bbycroft.net/llm
+Site internet pour visualiser l'architecture des LLMs (Large Language Models).
+
+**Cours LLMs** : https://github.com/mlabonne/llm-course
+Large collection d'informations sur les LLMs.
+
+**Distill** : https://distill.pub/
+Blog d'articles interactifs en lien avec l'IA.
+
+### 🎥 Vidéos
+
+**Fidle CNRS** : https://fidle.cnrs.fr/
+Cours d'IA donné tous les ans par le CNRS.
+
+**Cours de Stanford** : https://www.youtube.com/@stanfordonline
+Beaucoup de cours d'IA de Stanford.
+
+**Chaîne YouTube The AI Epiphany** : https://www.youtube.com/@TheAIEpiphany
+Vidéos sur l'IA s'appuyant sur les articles de recherche associés.
+
+**Machine Learnia** : https://www.youtube.com/@MachineLearnia
+Cours en français ML et DL.
+
+### 📚 Livres
+
+**The Little Book of Deep Learning** : https://fleuret.org/francois/lbdl.html
+Petit livre en format téléphone contenant de nombreuses connaissances de base en Deep Learning.
+
+**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+Livre mélangeant la théorie et la pratique avec une partie sur le ML et l'autre sur le DL. Les notebooks sont disponibles ici : [https://github.com/ageron/handson-ml3](https://github.com/ageron/handson-ml3)
+
+**Deep Learning** : [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)
+Une référence très connue, beaucoup plus d’un point de vue mathématique (pas vraiment du point de vue pratique).

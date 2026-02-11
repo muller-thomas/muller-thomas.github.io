@@ -1,0 +1,47 @@
+---
+title: "Portfolio"
+---
+
+## 📷 Photography
+
+<center><a href="https://www.instagram.com/thomas_inprod/" target="_blank">![](ressources/images/logo/logo_instagram.png){width=10% fig-align="center"}</a></center>
+
+
+## 🎨 Digital art
+
+### 🪧 Event banners
+
+![Banner Edit my Photo](ressources/images/portfolio/banner_edit_my_photo.jpg){width=49%}
+![Banner Pic'ember](ressources/images/portfolio/banner_picember_2020.jpg){width=49%}
+![Banner Folk n'Roll](ressources/images/portfolio/banner_folk_n_roll.png){width=49%}
+![Banner astrophotography](ressources/images/portfolio/banner_astrophotography.jpg){width=49%}
+
+### 📜 Posters
+
+![Poster 10 years INPFDB](ressources/images/portfolio/poster_10_years_inpfdb.png){width=32%}
+![Poster ADL](ressources/images/portfolio/poster_adl.jpg){width=32%}
+![Poster INPFDB 1](ressources/images/portfolio/poster_concert_inpfdb.png){width=32%}
+![Poster JDD 2023](ressources/images/portfolio/poster_jdd_2023.png){width=32%}
+![Poster INPFDB 2](ressources/images/portfolio/poster_jdl_inpfdb.png){width=32%}
+![Poster JDD 2024](ressources/images/portfolio/poster_jdd_2024.png){width=32%}
+
+### Logo
+
+![](ressources/images/portfolio/logo_inpfdb.png){width=40% fig-align="center"}
+
+### 🎥 Video thumbnail
+
+![Thumbnail](ressources/images/portfolio/video_thumbnail_global.png){width=49%}
+![Thumbnail](ressources/images/portfolio/video_thumbnail_iae.png){width=49%}
+
+### 👨‍🚀 Presentation cards
+
+![Model presentation card](ressources/images/portfolio/model_presentation_card.png){width=34%}
+![Model organisation](ressources/images/portfolio/model_organisation.png){width=64%}
+
+### 🎲 Other
+
+![Wallpaper JDD 2023](ressources/images/portfolio/wallpaper_jdd.png){width=58%}
+![Name tag JDD 2023](ressources/images/portfolio/badge_jdd.png){width=40%}
+
+

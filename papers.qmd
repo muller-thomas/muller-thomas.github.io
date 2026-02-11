@@ -1,0 +1,44 @@
+---
+title: "Publications"
+---
+
+## 2025
+
+| ***Spherical Lattice Vector Quantization in Neural Audio Coding*** [[Source]](https://eusipco2025.org/wp-content/uploads/HTML/session-index.html#1034)[[PDF]](https://eusipco2025.org/wp-content/uploads/pdfs/0000016.pdf)
+| [Thomas Muller]{style="text-decoration: underline;"}, Stéphane Ragot and Pascal Scalart
+| European Signal Processing Conference (EUSIPCO), 2025, Palermo, Sicily
+&nbsp;
+
+| ***Étude comparative de qualité des codecs audio neuronaux – cas de la musique et du contenu mixte parole/musique*** [[Source]](https://gretsi.fr/archives/colloque/2025)[[PDF]](https://gretsi.fr/data/colloque/pdf/2025_muller1667.pdf)<a href="/ressources/poster/poster_gretsi_2025.pdf" target="_blank">[Poster]</a>
+| [Thomas Muller]{style="text-decoration: underline;"}, Stéphane Ragot, Laetitia Gros et Pascal Scalart
+| 30ème Colloque Francophone de Traitement du Signal et des Images (GRETSI), 2025, Strasbourg, France
+
+
+## 2024
+
+| ***Evaluation of Objective Quality Models on Neural Audio Codecs*** [[Source]](https://ieeexplore.ieee.org/document/10694655)[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10694655)<a href="/ressources/poster/poster_iwaenc_2024.pdf" target="_blank">[Poster]</a>
+| [Thomas Muller]{style="text-decoration: underline;"}, Stéphane Ragot, Vincent Barriac and Pascal Scalart
+| 18th International Workshop on Acoustic Signal Enhancement (IWAENC), 2024, Aalborg, Denmark
+&nbsp;
+
+| ***Speech quality evaluation of neural audio codecs*** [[Source]](https://www.isca-archive.org/interspeech_2024/muller24c_interspeech.html)[[PDF]](https://www.isca-archive.org/interspeech_2024/muller24c_interspeech.pdf)<a href="/ressources/poster/poster_interspeech_2024.pdf" target="_blank">[Poster]</a>
+| [Thomas Muller]{style="text-decoration: underline;"}, Stephane Ragot, Laetitia Gros, Pierrick Philippe and Pascal Scalart
+| Interspeech, 2024, Kos Island, Greece
+&nbsp;
+
+| ***Post-Training Latent Dimension Reduction in Neural Audio Coding*** [[Source]](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/HTML/session-index.html#1081)[[PDF]](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000301.pdf)<a href="/ressources/poster/poster_eusipco_2024.pdf" target="_blank">[Poster]</a>
+| [Thomas Muller]{style="text-decoration: underline;"}, Stéphane Ragot, Pierrick Philippe, Pascal Scalart
+| European Signal Processing Conference (EUSIPCO), 2024, Lyon, France
+&nbsp;
+
+| ***Amélioration de codecs de parole par modèle de diffusion*** [[Source]](https://coresa2024.sciencesconf.org/?lang=fr)
+| Romain Buguet, Stéphane Ragot et [Thomas Muller]{style="text-decoration: underline;"}
+| COmpression et REprésentation des Signaux Audiovisuels (CORESA), 2024, Rennes, France
+
+
+
+## 2023
+
+| ***Quantification optimisée de l'espace latent en codage audio neuronal*** [[Source]](https://gretsi.fr/archives/colloque/2023)[[PDF]](https://gretsi.fr/data/colloque/pdf/2023_muller1245.pdf)
+| [Thomas Muller]{style="text-decoration: underline;"}, Stéphane Ragot, Quentin Lemesle, Pierrick Philippe et Pascal Scalart
+| XXIXème Colloque Francophone de Traitement du Signal et des Images (GRETSI), 2023, Grenoble, France

@@ -1,12 +1,3 @@
 /_extensions
 /_site
 /.quarto
-/cooking
-/ressources
-
-_quarto.yml
-
-*.qmd
-
-
-/.quarto/
