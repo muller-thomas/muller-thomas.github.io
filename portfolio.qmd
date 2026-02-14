@@ -2,14 +2,14 @@
 title: "Portfolio"
 ---
 
-## 📷 Photography
+## 📷 Photographie
 
 <center><a href="https://www.instagram.com/thomas_inprod/" target="_blank">![](ressources/images/logo/logo_instagram.png){width=10% fig-align="center"}</a></center>
 
 
-## 🎨 Digital art
+## 🎨 Infographie
 
-### 🪧 Event banners
+### 🪧 Bannières évènements
 
 ![Banner Edit my Photo](ressources/images/portfolio/banner_edit_my_photo.jpg){width=49%}
 ![Banner Pic'ember](ressources/images/portfolio/banner_picember_2020.jpg){width=49%}
@@ -29,17 +29,17 @@ title: "Portfolio"
 
 ![](ressources/images/portfolio/logo_inpfdb.png){width=40% fig-align="center"}
 
-### 🎥 Video thumbnail
+### 🎥 Vignettes YouTube
 
 ![Thumbnail](ressources/images/portfolio/video_thumbnail_global.png){width=49%}
 ![Thumbnail](ressources/images/portfolio/video_thumbnail_iae.png){width=49%}
 
-### 👨‍🚀 Presentation cards
+### 👨‍🚀 Fiches de présentation
 
 ![Model presentation card](ressources/images/portfolio/model_presentation_card.png){width=34%}
 ![Model organisation](ressources/images/portfolio/model_organisation.png){width=64%}
 
-### 🎲 Other
+### 🎲 Autre
 
 ![Wallpaper JDD 2023](ressources/images/portfolio/wallpaper_jdd.png){width=58%}
 ![Name tag JDD 2023](ressources/images/portfolio/badge_jdd.png){width=40%}
