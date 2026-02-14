@@ -7,6 +7,7 @@ title: "Cuisine"
 - [Baguette apéro](cooking/plat/baguette_apero.qmd)
 - [Béchamel](cooking/plat/bechamel.qmd)
 - [Croissant au jambon](cooking/plat/croissant_jambon.qmd)
+- [Crumble de potimarron et mozzarella](cooking/plat/crumble_potimarron.qmd)
 - [Quiche lorraine](cooking/plat/quiche_lorraine.qmd)
 - [Quiche brocolis poulet tomate](cooking/plat/quiche_brocolis_poulet.qmd)
 
@@ -22,6 +23,7 @@ Compilation de recettes de plats de Cyril Lignac de l'émission *Tous en cuisine
 - [Cookies](cooking/dessert/cookies.qmd)
 - [Crumble aux pommes](cooking/dessert/crumble_pomme.qmd)
 - [Flan patissier](cooking/dessert/flan_patissier.qmd)
+- [Financiers aux amandes](cooking/dessert/financier.qmd)
 - [Galette des rois](cooking/dessert/galette_rois.qmd)
 - [Gâteau au yaourt](cooking/dessert/gateau_yaourt.qmd)
 - [Tarte amandine aux abricots](cooking/dessert/tarte_abricot.qmd)

@@ -144,21 +144,21 @@
     "href": "cooking.html",
     "title": "Cuisine",
     "section": "",
-    "text": "Baguette apéro\nBéchamel\nCroissant au jambon\nQuiche lorraine\nQuiche brocolis poulet tomate\n\nCompilation de recettes de plats de Cyril Lignac de l’émission Tous en cuisine : [Livre]"
+    "text": "Baguette apéro\nBéchamel\nCroissant au jambon\nCrumble de potimarron et mozzarella\nQuiche lorraine\nQuiche brocolis poulet tomate\n\nCompilation de recettes de plats de Cyril Lignac de l’émission Tous en cuisine : [Livre]"
   },
   {
     "objectID": "cooking.html#salé",
     "href": "cooking.html#salé",
     "title": "Cuisine",
     "section": "",
-    "text": "Baguette apéro\nBéchamel\nCroissant au jambon\nQuiche lorraine\nQuiche brocolis poulet tomate\n\nCompilation de recettes de plats de Cyril Lignac de l’émission Tous en cuisine : [Livre]"
+    "text": "Baguette apéro\nBéchamel\nCroissant au jambon\nCrumble de potimarron et mozzarella\nQuiche lorraine\nQuiche brocolis poulet tomate\n\nCompilation de recettes de plats de Cyril Lignac de l’émission Tous en cuisine : [Livre]"
   },
   {
     "objectID": "cooking.html#sucré",
     "href": "cooking.html#sucré",
     "title": "Cuisine",
     "section": "🧁 Sucré",
-    "text": "🧁 Sucré\n\nBrownie citron\nButterbredele\nCake citron\nCarrot cake\nCookies\nCrumble aux pommes\nFlan patissier\nGalette des rois\nGâteau au yaourt\nTarte amandine aux abricots\nTuiles aux amandes\n\nCompilation de recettes de desserts de Cyril Lignac de l’émission Tous en cuisine : [Livre]"
+    "text": "🧁 Sucré\n\nBrownie citron\nButterbredele\nCake citron\nCarrot cake\nCookies\nCrumble aux pommes\nFlan patissier\nFinanciers aux amandes\nGalette des rois\nGâteau au yaourt\nTarte amandine aux abricots\nTuiles aux amandes\n\nCompilation de recettes de desserts de Cyril Lignac de l’émission Tous en cuisine : [Livre]"
   },
   {
     "objectID": "cooking/plat/quiche_brocolis_poulet.html",
@@ -189,116 +189,144 @@
     "text": "🔢 Étapes\n\nPréchauffer le four à 180°C\nAppliquer la pâte feuilletée dans le moule (en gardant le papier sulfurisé présent dans l’emballage) et enlever les bords qui dépassent. Faire des trous avec une fourchette (fond voire également sur les côtés) pour éviter que la pâte gonfle\nFaire cuire les brocolis.\nBadigeonner le fond de la pâte avec de la moutarde.\nCouper les tomates en rondelles et les placer au fond de la tarte.\nDisposer les brocolis et les morceaux de poulet.\nPréparation de l’appareil œuf-lait-crème.\nCasser trois œufs et les mélanger avec sel + poivre.\nIncorporer la crème et mélanger\nRajouter un peu de lait et mélanger\nUne fois le four chaud (pour ne pas détremper la pâte feuilletée/brisée avec l’appareil), verser l’appareil dans le moule et enfourner pendant 30 min. Rajouter le temps nécessaire pour obtenir une bonne couleur générale de la quiche"
   },
   {
-    "objectID": "cooking/plat/bechamel.html",
-    "href": "cooking/plat/bechamel.html",
-    "title": "Béchamel",
+    "objectID": "cooking/plat/croissant_jambon.html",
+    "href": "cooking/plat/croissant_jambon.html",
+    "title": "Croissants au jambon",
     "section": "",
-    "text": "Base :\n\n100 mL de lait\n10g de farine\n10 g de beurre\nSel/poivre\nMuscade en poudre"
+    "text": "Pour 6 croissants :\n\n6 croissants\nbéchamel avec au moins 250 mL de lait\ngruyère râpé\n4 tranches de jambon"
   },
   {
-    "objectID": "cooking/plat/bechamel.html#ingrédients",
-    "href": "cooking/plat/bechamel.html#ingrédients",
-    "title": "Béchamel",
+    "objectID": "cooking/plat/croissant_jambon.html#ingrédients",
+    "href": "cooking/plat/croissant_jambon.html#ingrédients",
+    "title": "Croissants au jambon",
     "section": "",
-    "text": "Base :\n\n100 mL de lait\n10g de farine\n10 g de beurre\nSel/poivre\nMuscade en poudre"
+    "text": "Pour 6 croissants :\n\n6 croissants\nbéchamel avec au moins 250 mL de lait\ngruyère râpé\n4 tranches de jambon"
   },
   {
-    "objectID": "cooking/plat/bechamel.html#ustensiles",
-    "href": "cooking/plat/bechamel.html#ustensiles",
-    "title": "Béchamel",
+    "objectID": "cooking/plat/croissant_jambon.html#ustensiles",
+    "href": "cooking/plat/croissant_jambon.html#ustensiles",
+    "title": "Croissants au jambon",
     "section": "🔪 Ustensiles",
-    "text": "🔪 Ustensiles\n\nCasserole"
+    "text": "🔪 Ustensiles\n\nCasserole\nPlaque de cuisson"
   },
   {
-    "objectID": "cooking/plat/bechamel.html#étapes",
-    "href": "cooking/plat/bechamel.html#étapes",
-    "title": "Béchamel",
+    "objectID": "cooking/plat/croissant_jambon.html#étapes",
+    "href": "cooking/plat/croissant_jambon.html#étapes",
+    "title": "Croissants au jambon",
     "section": "🔢 Étapes",
-    "text": "🔢 Étapes\n\nMélanger les ingrédients et faire cuire à feu doux en n’arrêtant pas de mélanger."
+    "text": "🔢 Étapes\n\nPréparer la béchamel\nCouper les croissants en deux et insérer de la béchamel.\nAjouter le jambon, de nouveau de la béchamel et le gruyère râpé.\nSi envie, possibilité de rajouter de la béchamel sur le croissant avec un peu de gruyère rapé."
   },
   {
-    "objectID": "cooking/dessert/tuiles_amande.html",
-    "href": "cooking/dessert/tuiles_amande.html",
-    "title": "Tuiles aux amandes",
+    "objectID": "cooking/plat/baguette_apero.html",
+    "href": "cooking/plat/baguette_apero.html",
+    "title": "Baguette apéro",
     "section": "",
-    "text": "200g de sucre\n4 blancs d’œufs\n100g de farine\n100g de beurre\n60g d’amandes effilées"
+    "text": "2 baguettes\n\nFarce :\n\n1 St Moret familial (250g)\n100g de beurre fondu\n2 tranches de jambon coupées en petits morceaux\n2 œufs durs coupés en petits morceaux\n4 ou 5 cornichons coupés en petits morceaux\nsel et poivre\n200g de gruyère râpé\n2 c à s de moutarde (facultatif)\n3 c à s de câpres (facultatif)"
   },
   {
-    "objectID": "cooking/dessert/tuiles_amande.html#ingrédients",
-    "href": "cooking/dessert/tuiles_amande.html#ingrédients",
-    "title": "Tuiles aux amandes",
+    "objectID": "cooking/plat/baguette_apero.html#ingrédients",
+    "href": "cooking/plat/baguette_apero.html#ingrédients",
+    "title": "Baguette apéro",
     "section": "",
-    "text": "200g de sucre\n4 blancs d’œufs\n100g de farine\n100g de beurre\n60g d’amandes effilées"
+    "text": "2 baguettes\n\nFarce :\n\n1 St Moret familial (250g)\n100g de beurre fondu\n2 tranches de jambon coupées en petits morceaux\n2 œufs durs coupés en petits morceaux\n4 ou 5 cornichons coupés en petits morceaux\nsel et poivre\n200g de gruyère râpé\n2 c à s de moutarde (facultatif)\n3 c à s de câpres (facultatif)"
   },
   {
-    "objectID": "cooking/dessert/tuiles_amande.html#ustensiles",
-    "href": "cooking/dessert/tuiles_amande.html#ustensiles",
-    "title": "Tuiles aux amandes",
+    "objectID": "cooking/plat/baguette_apero.html#ustensiles",
+    "href": "cooking/plat/baguette_apero.html#ustensiles",
+    "title": "Baguette apéro",
     "section": "🔪 Ustensiles",
-    "text": "🔪 Ustensiles\n\nTamis\nRouleau à pâtisserie\nPlaque de cuisson"
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nPapier aluminium\nCouteau électrique (facultatif)"
   },
   {
-    "objectID": "cooking/dessert/tuiles_amande.html#étapes",
-    "href": "cooking/dessert/tuiles_amande.html#étapes",
-    "title": "Tuiles aux amandes",
+    "objectID": "cooking/plat/baguette_apero.html#étapes",
+    "href": "cooking/plat/baguette_apero.html#étapes",
+    "title": "Baguette apéro",
     "section": "🔢 Étapes",
-    "text": "🔢 Étapes\n\nAvec une fourchette, mélanger les blancs d’œufs et le sucre.\nRajouter la farine tamisée et le beurre mou mais pas fondu et les amandes effilées.\nAvec deux cuillères à café, disposer de petits tas sur une plaque (bien espacés).\nEnfourner à four moyen (Th5) pendant 8 à 10 min. Les bords doivent être dorés vers l’intérieur.\nAu sortir du four, les disposer sur le rouleau à pâtisserie pour leur donner la forme de la tuile."
+    "text": "🔢 Étapes\n\nPrendre les baguettes, les couper en deux comme un sandwich et enlever le plus de mie possible.\nBien mélanger la farce.\nFourrer le baguettes avec la farce.\nRefermer le baguettes et enlever la farce qui dépasse.\nEnrouler les baguettes dans du papier aluminium comme un saucisson.\nMettre au four 20 minutes à 180°C.\nLaisser refroidir et mettre au frigo jusqu’au lendemain.\nDécouper la baguette en tranches (avec un couteau électrique) juste avant de servir."
   },
   {
-    "objectID": "cooking/dessert/gateau_yaourt.html",
-    "href": "cooking/dessert/gateau_yaourt.html",
-    "title": "Gâteau au yaourt",
+    "objectID": "cooking/dessert/tarte_abricot.html",
+    "href": "cooking/dessert/tarte_abricot.html",
+    "title": "Tarte amandine aux abricots",
     "section": "",
-    "text": "1 yaourt (nature ou aromatisé)\n1/2 pot d’huile\n1 pot de sucre\n3 pots de farine\n2 œufs\n1 sachet de levure chimique\n1 sachet de sucre vanillé"
+    "text": "1 pâte sablée\n1 noisette de beurre\nquinze abricots\n\nCrème :\n\n50g de beurre mou\n50g de sucre\n50g de poudre d’amande\n1 œuf"
   },
   {
-    "objectID": "cooking/dessert/gateau_yaourt.html#ingrédients",
-    "href": "cooking/dessert/gateau_yaourt.html#ingrédients",
-    "title": "Gâteau au yaourt",
+    "objectID": "cooking/dessert/tarte_abricot.html#ingrédients",
+    "href": "cooking/dessert/tarte_abricot.html#ingrédients",
+    "title": "Tarte amandine aux abricots",
     "section": "",
-    "text": "1 yaourt (nature ou aromatisé)\n1/2 pot d’huile\n1 pot de sucre\n3 pots de farine\n2 œufs\n1 sachet de levure chimique\n1 sachet de sucre vanillé"
+    "text": "1 pâte sablée\n1 noisette de beurre\nquinze abricots\n\nCrème :\n\n50g de beurre mou\n50g de sucre\n50g de poudre d’amande\n1 œuf"
   },
   {
-    "objectID": "cooking/dessert/gateau_yaourt.html#ustensiles",
-    "href": "cooking/dessert/gateau_yaourt.html#ustensiles",
-    "title": "Gâteau au yaourt",
+    "objectID": "cooking/dessert/tarte_abricot.html#ustensiles",
+    "href": "cooking/dessert/tarte_abricot.html#ustensiles",
+    "title": "Tarte amandine aux abricots",
     "section": "🔪 Ustensiles",
-    "text": "🔪 Ustensiles\n\nMoule à gâteau\nBol à mélanger\nFouet\nMarise"
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nMoule à tarte"
   },
   {
-    "objectID": "cooking/dessert/gateau_yaourt.html#étapes",
-    "href": "cooking/dessert/gateau_yaourt.html#étapes",
-    "title": "Gâteau au yaourt",
+    "objectID": "cooking/dessert/tarte_abricot.html#étapes",
+    "href": "cooking/dessert/tarte_abricot.html#étapes",
+    "title": "Tarte amandine aux abricots",
     "section": "🔢 Étapes",
-    "text": "🔢 Étapes\n\nDans un saladier, verser le contenu du yaourt. Garder et utiliser le pot de yaourt pour le reste de la recette.\nAjouter un demi pot de yaourt d’huile et mélanger.\nAjouter 1 pot de sucre et mélanger.\nAjouter la levure + le sucre vanillé + les 3 pots de farine et mélanger.\nIncorporer les 2 œufs et mélanger jusqu’à pouvoir faire le ruban.\nSi envie, possible de rajouter des pépites de chocolat ou autre.\nPréchauffer le four à 180°C ?\nSi besoin beurrer le moule (beurre + farine) et verser le mélange dans le moule puis enfourner pendant 30 min (à surveiller).\nPour savoir si le gâteau est bien cuit, en plongeant un couteau il ne doit pas y avoir de mélange qui reste collé."
+    "text": "🔢 Étapes\n\nManger le beurre mou avec le sucre puis incorporer la poudre d’amandes et l’œuf. Fouetter vivement.\nBadigeonner de beurre un moule à tarte. Le garnir de pâte sablé. Piquer le fond.\nPréparer et étaler la crème.\nDécouper les abricots en quartiers et les disposer debout dans la crème.\nCuire dan un four préchauffé à 210°C (Th 7) pendant 30 minutes.\nÀ la sortie du four, soupoudrer de sucre en poudre."
   },
   {
-    "objectID": "cooking/dessert/flan_patissier.html",
-    "href": "cooking/dessert/flan_patissier.html",
-    "title": "Flan patissier",
+    "objectID": "cooking/dessert/galette_rois.html",
+    "href": "cooking/dessert/galette_rois.html",
+    "title": "Galette des rois",
     "section": "",
-    "text": "1 pâte feuilletée\n100g de poudre à flan pâtissier (impérial)\n1L de lait\n2 jaunes d’œuf\n130 de sucre"
+    "text": "2 disques de pâte feuilletée pur beurre\n125g de beurre\n125g de sucre\n2 œufs\n125g de poudre d’amande\n1 c à s de compote de pomme\n1 fève (facultatif)\ndorure : 1 jaune d’œuf et 1 c à c de lait"
   },
   {
-    "objectID": "cooking/dessert/flan_patissier.html#ingrédients",
-    "href": "cooking/dessert/flan_patissier.html#ingrédients",
-    "title": "Flan patissier",
+    "objectID": "cooking/dessert/galette_rois.html#ingrédients",
+    "href": "cooking/dessert/galette_rois.html#ingrédients",
+    "title": "Galette des rois",
     "section": "",
-    "text": "1 pâte feuilletée\n100g de poudre à flan pâtissier (impérial)\n1L de lait\n2 jaunes d’œuf\n130 de sucre"
+    "text": "2 disques de pâte feuilletée pur beurre\n125g de beurre\n125g de sucre\n2 œufs\n125g de poudre d’amande\n1 c à s de compote de pomme\n1 fève (facultatif)\ndorure : 1 jaune d’œuf et 1 c à c de lait"
   },
   {
-    "objectID": "cooking/dessert/flan_patissier.html#ustensiles",
-    "href": "cooking/dessert/flan_patissier.html#ustensiles",
-    "title": "Flan patissier",
+    "objectID": "cooking/dessert/galette_rois.html#ustensiles",
+    "href": "cooking/dessert/galette_rois.html#ustensiles",
+    "title": "Galette des rois",
     "section": "🔪 Ustensiles",
-    "text": "🔪 Ustensiles\n\nBol à mélanger\nCasserole\nFouet\nMarise"
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nPinceau\nPlaque de cuisson"
   },
   {
-    "objectID": "cooking/dessert/flan_patissier.html#étapes",
-    "href": "cooking/dessert/flan_patissier.html#étapes",
-    "title": "Flan patissier",
+    "objectID": "cooking/dessert/galette_rois.html#étapes",
+    "href": "cooking/dessert/galette_rois.html#étapes",
+    "title": "Galette des rois",
     "section": "🔢 Étapes",
-    "text": "🔢 Étapes\n\nEtaler la pâte feuilletée dans un mouler et faire des trous avec une fourchette.\nPrendre deux saladiers. Dans le premier, mélanger 1/2L de lait avec le sucre et faire chauffer le mélange dans une casserole jusqu’à ébullition.\nDans le second saladier, mélanger la poudre à flan pâtissier avec 1/2L de lait. Ensuite, rajouter les deux jaunes d’œuf.\nUne fois le premier mélange arrivé à ébullition, couper le feu (enlever la casserole du feu) et incorporer doucement le second mélange en plusieurs fois tout en battant (et bien dans les coins pour éviter que cela ne brule).\nRemettre sur feu doux et continuer de mélanger avec le fouet jusqu’à épaississement (1-2min après épaississement).\nVerser le mélange dans le moule et laisser reposer 30min-1h pour faire « crouter » le dessus (et éviter que le flan n’explose à la cuisson).\nFaire cuire le flan 30min à 180°C sans ouvrir le four et continuer à cuire jusqu’à ce que le dessus ait une bonne couleur."
+    "text": "🔢 Étapes\n\nMélanger le beurre ramolli avec le sucre.\nAjouter les œufs puis la poudre d’amande et la compote.\nÉtaler le premier disque de pâte feuilleter et déposer la garniture sur la pâte en laissant 2cm de pâte vide sur le bord.\nAjouter la fève et mouiller le bord avec un pinceau.\nRecouvrer avec le deuxième disque de pâte feuilletée.\nAppuyer sur les bords pour les souder.\nMettre une première couche de dorure avec un pinceau et placer la galette au frais pour 30 min.\nPréchauffer le four à 200°C (Th 6/7).\nSortir la galette et étaler une deuxième couche de dorure au pinceau.\nFaire un décor avec le couteau et faire des petits trous.\nFaire cuire 20 à 30 minutes."
+  },
+  {
+    "objectID": "cooking/dessert/financier.html",
+    "href": "cooking/dessert/financier.html",
+    "title": "Financiers aux amandes",
+    "section": "",
+    "text": "Pour une douzaine de financiers :\n\n150g de sucre\n130g de beurre\n80g de poudre d’amande\n50g de farine\n3 blancs d’œufs"
+  },
+  {
+    "objectID": "cooking/dessert/financier.html#ingrédients",
+    "href": "cooking/dessert/financier.html#ingrédients",
+    "title": "Financiers aux amandes",
+    "section": "",
+    "text": "Pour une douzaine de financiers :\n\n150g de sucre\n130g de beurre\n80g de poudre d’amande\n50g de farine\n3 blancs d’œufs"
+  },
+  {
+    "objectID": "cooking/dessert/financier.html#ustensiles",
+    "href": "cooking/dessert/financier.html#ustensiles",
+    "title": "Financiers aux amandes",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nMoule à financiers"
+  },
+  {
+    "objectID": "cooking/dessert/financier.html#étapes",
+    "href": "cooking/dessert/financier.html#étapes",
+    "title": "Financiers aux amandes",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nFaire fondre le beurre et le laisser refroidir. Mélanger le sucre, la farine et la poudre d’amandes.\nAjouter les blancs d’œufs montés en neige et mélanger. Enfin, incorporer le beurre à la préparation.\nPréchauffer le four à 200°C. Verser la pâte dans des moules sans trop les remplir. Faire cuire 15 à 20 minutes, cela dépend du four ainsi que la taille des gâteaux. Les financiers sont cuits lorsqu’ils ont une belle couleur dorée et qu’une lame insérée en ressort sèche.\n\nSource : Le journal des femmes"
   },
   {
     "objectID": "cooking/dessert/cookies.html",
@@ -326,7 +354,7 @@
     "href": "cooking/dessert/cookies.html#étapes",
     "title": "Cookies",
     "section": "🔢 Étapes",
-    "text": "🔢 Étapes\n\nLaisser ramollir le beurre à température ambiante. Dans un saladier, malaxer le avec le sucre.\nAjouter l’œuf et éventuellement le sucre vanillé.\nVerser progressivement la farine, la levure chimique, le sel et les pépites de chocolat. Mélanger bien.\nBeurrer une plaque allant au four ou la recouvrir d’une plaque de silicone. À l’aide de deux cuillères à soupe ou simplement avec les mains, former des noix de pâte en les espaçant car elles s’étaleront à la cuisson.\nFaire cuire 8 à 10 minutes à 180°C (thermostat 6). Il faut les sortir dès que les contours commencent à brunir.\n\nSource : Le journal des femmes https://cuisine.journaldesfemmes.fr/recette/310548-american-cookies"
+    "text": "🔢 Étapes\n\nLaisser ramollir le beurre à température ambiante. Dans un saladier, malaxer le avec le sucre.\nAjouter l’œuf et éventuellement le sucre vanillé.\nVerser progressivement la farine, la levure chimique, le sel et les pépites de chocolat. Mélanger bien.\nBeurrer une plaque allant au four ou la recouvrir d’une plaque de silicone. À l’aide de deux cuillères à soupe ou simplement avec les mains, former des noix de pâte en les espaçant car elles s’étaleront à la cuisson.\nFaire cuire 8 à 10 minutes à 180°C (thermostat 6). Il faut les sortir dès que les contours commencent à brunir.\n\nSource : Le journal des femmes"
   },
   {
     "objectID": "cooking/dessert/cake_citron.html",
@@ -382,7 +410,7 @@
     "href": "cooking/dessert/brownie_citron.html#étapes",
     "title": "Brownie citron",
     "section": "🔢 Étapes",
-    "text": "🔢 Étapes\nBrownie au citron\n\nPréchauffer le four à 160°C (four conventionnel). Préparer un moule carré de 20x20 cm avec du papier sulfurisé.\nFaire fondre le beurre et l’ajouter dans un petit bol. Ajouter les pépites de chocolat et mélanger jusqu’à ce qu’elles soient fondues. Mettre de côté.\nDans un autre grand bol, ajouter le sucre cristallisé et le zeste de citron. Frotter le tout pour libérer tout l’arôme de citron jusqu’à ce que le mélange ressemble à du sable mouillé. Ajouter le beurre fondu/le chocolat blanc au sucre et, à l’aide d’un fouet à main, mélanger le tout jusqu’à obtention d’une pâte homogène. Il se peut que le mélange ait l’air un peu fendu, mais ne vous inquiétez pas.\nAjouter les œufs et mélanger jusqu’à ce qu’ils soient incorporés. Une fois incorporés, continuez à bien les fouetter pendant 1 à 2 minutes pour qu’ils deviennent légers et mousseux.\nAjoutez ensuite le jus de citron et l’extrait de vanille et fouettez jusqu’à ce qu’ils soient combinés.\nAjouter les ingrédients secs à la pâte et fouetter délicatement jusqu’à ce qu’ils soient combinés.\nAjoutez la pâte à brownie dans le moule préparé et lissez-la à l’aide d’une spatule.\nFaire cuire au four pendant 30 à 32 minutes. Le brownie restera léger et ne brunira pas. Une fois cuit, laissez-le refroidir complètement sur une grille.\nUne fois complètement refroidi, le retirer du moule et le placer dans un plat de service pour préparer le glaçage au citron.\n\nGlaçage au citron\n\nDans un petit bol, ajouter le sucre en poudre et commencer par 2 cuillères à soupe de jus de citron. Mélanger jusqu’à obtention d’un mélange homogène. Ajouter plus de jus de citron si nécessaire ou jusqu’à ce que le mélange soit lisse.\nAjouter le glaçage au citron sur le brownie et l’étaler. Décorez éventuellement avec du zeste de citron. Laisser prendre à température ambiante. Vous pouvez également le placer au réfrigérateur pour qu’il prenne plus rapidement. Une fois que le glaçage a pris et s’est raffermi, il est prêt à être servi."
+    "text": "🔢 Étapes\nBrownie au citron\n\nPréchauffer le four à 160°C (four conventionnel). Préparer un moule carré de 20x20 cm avec du papier sulfurisé.\nFaire fondre le beurre et l’ajouter dans un petit bol. Ajouter les pépites de chocolat et mélanger jusqu’à ce qu’elles soient fondues. Mettre de côté.\nDans un autre grand bol, ajouter le sucre cristallisé et le zeste de citron. Frotter le tout pour libérer tout l’arôme de citron jusqu’à ce que le mélange ressemble à du sable mouillé. Ajouter le beurre fondu/le chocolat blanc au sucre et, à l’aide d’un fouet à main, mélanger le tout jusqu’à obtention d’une pâte homogène. Il se peut que le mélange ait l’air un peu fendu, mais ne vous inquiétez pas.\nAjouter les œufs et mélanger jusqu’à ce qu’ils soient incorporés. Une fois incorporés, continuez à bien les fouetter pendant 1 à 2 minutes pour qu’ils deviennent légers et mousseux.\nAjoutez ensuite le jus de citron et l’extrait de vanille et fouettez jusqu’à ce qu’ils soient combinés.\nAjouter les ingrédients secs à la pâte et fouetter délicatement jusqu’à ce qu’ils soient combinés.\nAjoutez la pâte à brownie dans le moule préparé et lissez-la à l’aide d’une spatule.\nFaire cuire au four pendant 30 à 32 minutes. Le brownie restera léger et ne brunira pas. Une fois cuit, laissez-le refroidir complètement sur une grille.\nUne fois complètement refroidi, le retirer du moule et le placer dans un plat de service pour préparer le glaçage au citron.\n\nGlaçage au citron\n\nDans un petit bol, ajouter le sucre en poudre et commencer par 2 cuillères à soupe de jus de citron. Mélanger jusqu’à obtention d’un mélange homogène. Ajouter plus de jus de citron si nécessaire ou jusqu’à ce que le mélange soit lisse.\nAjouter le glaçage au citron sur le brownie et l’étaler. Décorez éventuellement avec du zeste de citron. Laisser prendre à température ambiante. Vous pouvez également le placer au réfrigérateur pour qu’il prenne plus rapidement. Une fois que le glaçage a pris et s’est raffermi, il est prêt à être servi.\n\nSource : Julie Marie Eats"
   },
   {
     "objectID": "cooking/dessert/butterbredele.html",
@@ -410,7 +438,7 @@
     "href": "cooking/dessert/butterbredele.html#étapes",
     "title": "Butterbredele",
     "section": "🔢 Étapes",
-    "text": "🔢 Étapes\n\nTravaille en mousse le beurre ramolli, le sucre et les jaunes d’œuf.\nRajouter la farine tamisée.\nÉtaler la pâte au rouleau sur 1/2cm.\nDécouper à l’emporte pièce et les disposer sur la plaque à pâtisserie.\nLes badigeonner avec un mélange de jaune d’œuf et de lait.\nLes enfourner à four moyen 15 à 20 minute."
+    "text": "🔢 Étapes\n\nTravaille en mousse le beurre ramolli, le sucre et les jaunes d’œuf.\nRajouter la farine tamisée.\nÉtaler la pâte au rouleau sur 1/2cm.\nDécouper à l’emporte pièce et les disposer sur la plaque à pâtisserie.\nLes badigeonner avec un mélange de jaune d’œuf et de lait.\nLes enfourner à four moyen (180°C) 15 à 20 minute."
   },
   {
     "objectID": "cooking/dessert/carrot_cake.html",
@@ -469,116 +497,144 @@
     "text": "🔢 Étapes\n\nÉplucher les pommes (et les poires) et les couper en dés (grossièrement).\nFaire mijoter pendant 10 minutes (en tournant de temps en temps) les fruits coupés avec 1/2 verre d’eau, un sachet de sucre vanillé et 2 c à s de sucre.\nPréchauffer le four 10 minutes à 210°C.\nMélanger 150g de farine avec 150g de sucre (ou 100g de sucre et 50g de cassonade).\nAjouter les spéculoos émiettés et mélanger le tout.\nAjouter 150g de beurre coupé en dés. Le beurre doit être pommade pour être plus facilement travaillé.\nMalaxer le tout qui doit rester hétérogène. Prendre garde à ce que la préparation ne devienne pas une pâte sablée.\nMettre les fruits au fond du plat en prenant soin d’enlever l’excédent d’eau.\nÉmietter la pâte sur les fruits.\nMettre au four 20 minutes.\n\nSource : Marmiton - Crumble aux pommes poire et spéculoos"
   },
   {
-    "objectID": "cooking/dessert/galette_rois.html",
-    "href": "cooking/dessert/galette_rois.html",
-    "title": "Galette des rois",
+    "objectID": "cooking/dessert/flan_patissier.html",
+    "href": "cooking/dessert/flan_patissier.html",
+    "title": "Flan patissier",
     "section": "",
-    "text": "2 disques de pâte feuilletée pur beurre\n125g de beurre\n125g de sucre\n2 œufs\n125g de poudre d’amande\n1 c à s de compote de pomme\n1 fève (facultatif)\ndorure : 1 jaune d’œuf et 1 c à c de lait"
+    "text": "1 pâte feuilletée\n100g de poudre à flan pâtissier (impérial)\n1L de lait\n2 jaunes d’œuf\n130 de sucre"
   },
   {
-    "objectID": "cooking/dessert/galette_rois.html#ingrédients",
-    "href": "cooking/dessert/galette_rois.html#ingrédients",
-    "title": "Galette des rois",
+    "objectID": "cooking/dessert/flan_patissier.html#ingrédients",
+    "href": "cooking/dessert/flan_patissier.html#ingrédients",
+    "title": "Flan patissier",
     "section": "",
-    "text": "2 disques de pâte feuilletée pur beurre\n125g de beurre\n125g de sucre\n2 œufs\n125g de poudre d’amande\n1 c à s de compote de pomme\n1 fève (facultatif)\ndorure : 1 jaune d’œuf et 1 c à c de lait"
+    "text": "1 pâte feuilletée\n100g de poudre à flan pâtissier (impérial)\n1L de lait\n2 jaunes d’œuf\n130 de sucre"
   },
   {
-    "objectID": "cooking/dessert/galette_rois.html#ustensiles",
-    "href": "cooking/dessert/galette_rois.html#ustensiles",
-    "title": "Galette des rois",
+    "objectID": "cooking/dessert/flan_patissier.html#ustensiles",
+    "href": "cooking/dessert/flan_patissier.html#ustensiles",
+    "title": "Flan patissier",
     "section": "🔪 Ustensiles",
-    "text": "🔪 Ustensiles\n\nBol à mélanger\nPinceau\nPlaque de cuisson"
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nCasserole\nFouet\nMarise"
   },
   {
-    "objectID": "cooking/dessert/galette_rois.html#étapes",
-    "href": "cooking/dessert/galette_rois.html#étapes",
-    "title": "Galette des rois",
+    "objectID": "cooking/dessert/flan_patissier.html#étapes",
+    "href": "cooking/dessert/flan_patissier.html#étapes",
+    "title": "Flan patissier",
     "section": "🔢 Étapes",
-    "text": "🔢 Étapes\n\nMélanger le beurre ramolli avec le sucre.\nAjouter les œufs puis la poudre d’amande et la compote.\nÉtaler le premier disque de pâte feuilleter et déposer la garniture sur la pâte en laissant 2cm de pâte vide sur le bord.\nAjouter la fève et mouiller le bord avec un pinceau.\nRecouvrer avec le deuxième disque de pâte feuilletée.\nAppuyer sur les bords pour les souder.\nMettre une première couche de dorure avec un pinceau et placer la galette au frais pour 30 min.\nPréchauffer le four à 200°C (Th 6/7).\nSortir la galette et étaler une deuxième couche de dorure au pinceau.\nFaire un décor avec le couteau et faire des petits trous.\nFaire cuire 30 minutes."
+    "text": "🔢 Étapes\n\nEtaler la pâte feuilletée dans un mouler et faire des trous avec une fourchette.\nPrendre deux saladiers. Dans le premier, mélanger 1/2L de lait avec le sucre et faire chauffer le mélange dans une casserole jusqu’à ébullition.\nDans le second saladier, mélanger la poudre à flan pâtissier avec 1/2L de lait. Ensuite, rajouter les deux jaunes d’œuf.\nUne fois le premier mélange arrivé à ébullition, couper le feu (enlever la casserole du feu) et incorporer doucement le second mélange en plusieurs fois tout en battant (et bien dans les coins pour éviter que cela ne brule).\nRemettre sur feu doux et continuer de mélanger avec le fouet jusqu’à épaississement (1-2min après épaississement).\nVerser le mélange dans le moule et laisser reposer 30min-1h pour faire « crouter » le dessus (et éviter que le flan n’explose à la cuisson).\nFaire cuire le flan 30min à 180°C sans ouvrir le four et continuer à cuire jusqu’à ce que le dessus ait une bonne couleur."
   },
   {
-    "objectID": "cooking/dessert/tarte_abricot.html",
-    "href": "cooking/dessert/tarte_abricot.html",
-    "title": "Tarte amandine aux abricots",
+    "objectID": "cooking/dessert/gateau_yaourt.html",
+    "href": "cooking/dessert/gateau_yaourt.html",
+    "title": "Gâteau au yaourt",
     "section": "",
-    "text": "1 pâte sablée\n1 noisette de beurre\nquinze abricots\n\nCrème :\n\n50g de beurre mou\n50g de sucre\n50g de poudre d’amande\n1 œuf"
+    "text": "1 yaourt (nature ou aromatisé)\n1/2 pot d’huile\n1 pot de sucre\n3 pots de farine\n2 œufs\n1 sachet de levure chimique\n1 sachet de sucre vanillé"
   },
   {
-    "objectID": "cooking/dessert/tarte_abricot.html#ingrédients",
-    "href": "cooking/dessert/tarte_abricot.html#ingrédients",
-    "title": "Tarte amandine aux abricots",
+    "objectID": "cooking/dessert/gateau_yaourt.html#ingrédients",
+    "href": "cooking/dessert/gateau_yaourt.html#ingrédients",
+    "title": "Gâteau au yaourt",
     "section": "",
-    "text": "1 pâte sablée\n1 noisette de beurre\nquinze abricots\n\nCrème :\n\n50g de beurre mou\n50g de sucre\n50g de poudre d’amande\n1 œuf"
+    "text": "1 yaourt (nature ou aromatisé)\n1/2 pot d’huile\n1 pot de sucre\n3 pots de farine\n2 œufs\n1 sachet de levure chimique\n1 sachet de sucre vanillé"
   },
   {
-    "objectID": "cooking/dessert/tarte_abricot.html#ustensiles",
-    "href": "cooking/dessert/tarte_abricot.html#ustensiles",
-    "title": "Tarte amandine aux abricots",
+    "objectID": "cooking/dessert/gateau_yaourt.html#ustensiles",
+    "href": "cooking/dessert/gateau_yaourt.html#ustensiles",
+    "title": "Gâteau au yaourt",
     "section": "🔪 Ustensiles",
-    "text": "🔪 Ustensiles\n\nBol à mélanger\nMoule à tarte"
+    "text": "🔪 Ustensiles\n\nMoule à gâteau\nBol à mélanger\nFouet\nMarise"
   },
   {
-    "objectID": "cooking/dessert/tarte_abricot.html#étapes",
-    "href": "cooking/dessert/tarte_abricot.html#étapes",
-    "title": "Tarte amandine aux abricots",
+    "objectID": "cooking/dessert/gateau_yaourt.html#étapes",
+    "href": "cooking/dessert/gateau_yaourt.html#étapes",
+    "title": "Gâteau au yaourt",
     "section": "🔢 Étapes",
-    "text": "🔢 Étapes\n\nManger le beurre mou avec le sucre puis incorporer la poudre d’amandes et l’œuf. Fouetter vivement.\nBadigeonner de beurre un moule à tarte. Le garnir de pâte sablé. Piquer le fond.\nPréparer et étaler la crème.\nDécouper les abricots en quartiers et les disposer debout dans la crème.\nCuire dan un four préchauffé à 210°C (Th 7) pendant 30 minutes.\nÀ la sortie du four, soupoudrer de sucre en poudre."
+    "text": "🔢 Étapes\n\nDans un saladier, verser le contenu du yaourt. Garder et utiliser le pot de yaourt pour le reste de la recette.\nAjouter un demi pot de yaourt d’huile et mélanger.\nAjouter 1 pot de sucre et mélanger.\nAjouter la levure + le sucre vanillé + les 3 pots de farine et mélanger.\nIncorporer les 2 œufs et mélanger jusqu’à pouvoir faire le ruban.\nSi envie, possible de rajouter des pépites de chocolat ou autre.\nPréchauffer le four à 180°C ?\nSi besoin beurrer le moule (beurre + farine) et verser le mélange dans le moule puis enfourner pendant 30 min (à surveiller).\nPour savoir si le gâteau est bien cuit, en plongeant un couteau il ne doit pas y avoir de mélange qui reste collé."
   },
   {
-    "objectID": "cooking/plat/baguette_apero.html",
-    "href": "cooking/plat/baguette_apero.html",
-    "title": "Baguette apéro",
+    "objectID": "cooking/dessert/tuiles_amande.html",
+    "href": "cooking/dessert/tuiles_amande.html",
+    "title": "Tuiles aux amandes",
     "section": "",
-    "text": "2 baguettes\n\nFarce :\n\n1 St Moret familial (250g)\n100g de beurre fondu\n2 tranches de jambon coupées en petits morceaux\n2 œufs durs coupés en petits morceaux\n4 ou 5 cornichons coupés en petits morceaux\nsel et poivre\n200g de gruyère râpé\n2 c à s de moutarde (facultatif)\n3 c à s de câpres (facultatif)"
+    "text": "200g de sucre\n4 blancs d’œufs\n100g de farine\n100g de beurre\n60g d’amandes effilées"
   },
   {
-    "objectID": "cooking/plat/baguette_apero.html#ingrédients",
-    "href": "cooking/plat/baguette_apero.html#ingrédients",
-    "title": "Baguette apéro",
+    "objectID": "cooking/dessert/tuiles_amande.html#ingrédients",
+    "href": "cooking/dessert/tuiles_amande.html#ingrédients",
+    "title": "Tuiles aux amandes",
     "section": "",
-    "text": "2 baguettes\n\nFarce :\n\n1 St Moret familial (250g)\n100g de beurre fondu\n2 tranches de jambon coupées en petits morceaux\n2 œufs durs coupés en petits morceaux\n4 ou 5 cornichons coupés en petits morceaux\nsel et poivre\n200g de gruyère râpé\n2 c à s de moutarde (facultatif)\n3 c à s de câpres (facultatif)"
+    "text": "200g de sucre\n4 blancs d’œufs\n100g de farine\n100g de beurre\n60g d’amandes effilées"
   },
   {
-    "objectID": "cooking/plat/baguette_apero.html#ustensiles",
-    "href": "cooking/plat/baguette_apero.html#ustensiles",
-    "title": "Baguette apéro",
+    "objectID": "cooking/dessert/tuiles_amande.html#ustensiles",
+    "href": "cooking/dessert/tuiles_amande.html#ustensiles",
+    "title": "Tuiles aux amandes",
     "section": "🔪 Ustensiles",
-    "text": "🔪 Ustensiles\n\nBol à mélanger\nPapier aluminium\nCouteau électrique (facultatif)"
+    "text": "🔪 Ustensiles\n\nTamis\nRouleau à pâtisserie\nPlaque de cuisson"
   },
   {
-    "objectID": "cooking/plat/baguette_apero.html#étapes",
-    "href": "cooking/plat/baguette_apero.html#étapes",
-    "title": "Baguette apéro",
+    "objectID": "cooking/dessert/tuiles_amande.html#étapes",
+    "href": "cooking/dessert/tuiles_amande.html#étapes",
+    "title": "Tuiles aux amandes",
     "section": "🔢 Étapes",
-    "text": "🔢 Étapes\n\nPrendre les baguettes, les couper en deux comme un sandwich et enlever le plus de mie possible.\nBien mélanger la farce.\nFourrer le baguettes avec la farce.\nRefermer le baguettes et enlever la farce qui dépasse.\nEnrouler les baguettes dans du papier aluminium comme un saucisson.\nMettre au four 20 minutes à 180°C.\nLaisser refroidir et mettre au frigo jusqu’au lendemain.\nDécouper la baguette en tranches (avec un couteau électrique) juste avant de servir."
+    "text": "🔢 Étapes\n\nAvec une fourchette, mélanger les blancs d’œufs et le sucre.\nRajouter la farine tamisée et le beurre mou mais pas fondu et les amandes effilées.\nAvec deux cuillères à café, disposer de petits tas sur une plaque (bien espacés).\nEnfourner à four moyen (Th5) pendant 8 à 10 min. Les bords doivent être dorés vers l’intérieur.\nAu sortir du four, les disposer sur le rouleau à pâtisserie pour leur donner la forme de la tuile."
   },
   {
-    "objectID": "cooking/plat/croissant_jambon.html",
-    "href": "cooking/plat/croissant_jambon.html",
-    "title": "Croissants au jambon",
+    "objectID": "cooking/plat/bechamel.html",
+    "href": "cooking/plat/bechamel.html",
+    "title": "Béchamel",
     "section": "",
-    "text": "Pour 6 croissants :\n\n6 croissants\nbéchamel avec au moins 250 mL de lait\ngruyère râpé\n4 tranches de jambon"
+    "text": "Base :\n\n100 mL de lait\n10g de farine\n10 g de beurre\nSel/poivre\nMuscade en poudre"
   },
   {
-    "objectID": "cooking/plat/croissant_jambon.html#ingrédients",
-    "href": "cooking/plat/croissant_jambon.html#ingrédients",
-    "title": "Croissants au jambon",
+    "objectID": "cooking/plat/bechamel.html#ingrédients",
+    "href": "cooking/plat/bechamel.html#ingrédients",
+    "title": "Béchamel",
     "section": "",
-    "text": "Pour 6 croissants :\n\n6 croissants\nbéchamel avec au moins 250 mL de lait\ngruyère râpé\n4 tranches de jambon"
+    "text": "Base :\n\n100 mL de lait\n10g de farine\n10 g de beurre\nSel/poivre\nMuscade en poudre"
   },
   {
-    "objectID": "cooking/plat/croissant_jambon.html#ustensiles",
-    "href": "cooking/plat/croissant_jambon.html#ustensiles",
-    "title": "Croissants au jambon",
+    "objectID": "cooking/plat/bechamel.html#ustensiles",
+    "href": "cooking/plat/bechamel.html#ustensiles",
+    "title": "Béchamel",
     "section": "🔪 Ustensiles",
-    "text": "🔪 Ustensiles\n\nCasserole\nPlaque de cuisson"
+    "text": "🔪 Ustensiles\n\nCasserole"
   },
   {
-    "objectID": "cooking/plat/croissant_jambon.html#étapes",
-    "href": "cooking/plat/croissant_jambon.html#étapes",
-    "title": "Croissants au jambon",
+    "objectID": "cooking/plat/bechamel.html#étapes",
+    "href": "cooking/plat/bechamel.html#étapes",
+    "title": "Béchamel",
     "section": "🔢 Étapes",
-    "text": "🔢 Étapes\n\nPréparer la béchamel\nCouper les croissants en deux et insérer de la béchamel.\nAjouter le jambon, de nouveau de la béchamel et le gruyère râpé.\nSi envie, possibilité de rajouter de la béchamel sur le croissant avec un peu de gruyère rapé."
+    "text": "🔢 Étapes\n\nMélanger les ingrédients et faire cuire à feu doux en n’arrêtant pas de mélanger."
+  },
+  {
+    "objectID": "cooking/plat/crumble_potimarron.html",
+    "href": "cooking/plat/crumble_potimarron.html",
+    "title": "Crumble de potimarron et mozzarella",
+    "section": "",
+    "text": "Pour 4-5 personnes :\n\n1 potimarron\nde l’huile, de l’origan, du romarin, etc.\n50-75g de beurre\n100g de parmesan\n75g de farine\nmozzarella"
+  },
+  {
+    "objectID": "cooking/plat/crumble_potimarron.html#ingrédients",
+    "href": "cooking/plat/crumble_potimarron.html#ingrédients",
+    "title": "Crumble de potimarron et mozzarella",
+    "section": "",
+    "text": "Pour 4-5 personnes :\n\n1 potimarron\nde l’huile, de l’origan, du romarin, etc.\n50-75g de beurre\n100g de parmesan\n75g de farine\nmozzarella"
+  },
+  {
+    "objectID": "cooking/plat/crumble_potimarron.html#ustensiles",
+    "href": "cooking/plat/crumble_potimarron.html#ustensiles",
+    "title": "Crumble de potimarron et mozzarella",
+    "section": "🔪 Ustensiles",
+    "text": "🔪 Ustensiles\n\nBol à mélanger\nPlat qui passe au four"
+  },
+  {
+    "objectID": "cooking/plat/crumble_potimarron.html#étapes",
+    "href": "cooking/plat/crumble_potimarron.html#étapes",
+    "title": "Crumble de potimarron et mozzarella",
+    "section": "🔢 Étapes",
+    "text": "🔢 Étapes\n\nÉplucher et couper le potimarron en morceaux de 1 à 2 cm. Attention, la peau du potimarron est dure, ne pas aller trop vite et faire attention à ses doigts.\nMettre les morceaux dans le plat (assez grand pour ne pas avoir plus de deux couches de potimarron), ajouter de l’huile et de l’origan, romarin, etc. puis faire cuire le potimarron à 240°C (environ 20 min, vérifier que c’est cuit avec un couteau).\nPendant ce temps, couper la mozzarella en petit cubes.\nPréparer le crumble en mélangeant le beurre pommade avec le parmesan et la farine.\nUne fois le potimarron cuit, ajouter la mozzarella puis le crumble, faire cuire jusqu’à ce que le crumble ait une bonne couleur (30 min à 200°C)."
   },
   {
     "objectID": "cooking/plat/quiche_lorraine.html",
@@ -616,10 +672,10 @@
     "text": "Hello, ici Thomas ! Je suis docteur-ingénieur en traitement du signal et deep learning et je travaille actuellement comme ingénieur maturation R&D chez Ouest-Valorisation. Bienvenue sur mon site web, vous trouverez mes publications de recherche, une partie de mes créations artistiques personnelles et une collection de liens intéressants en rapport avec mon sujet d’étude et de travail.\nJe suis diplômé de l’école d’ingénieurs Grenoble INP - Phelma, UGA avec une spécialité en traitement du signal et des images et en intelligence artificielle (apprentissage automatique/deep learning).\nDans la foulée j’ai réalisé une thèse CIFRE chez Orange Innovation et le laboratoire IRISA à Lannion. Ma thèse, intitulée Compression audio monocanal par apprentissage profond porte sur l’utilisation des réseaux de neurones artificiels dans le développement de la prochaine génération de codecs audio.\nJe pratique la musique depuis des années : clarinnetiste depuis plus de 15 ans et chanteur (chant choral) depuis 3 ans, j’ai également fait 3 ans d’accordéon et plus récemment un peu de piano en autodidacte. J’ai eu la chance de participer à l’incroyable projet d’orchestre trinational européen Trina Orchestra. J’aime également prendre des photos et créer des communications visuelles (affiches, bannières, logos) pour mes différentes associations, consultables sur mon portfolio.\nQuelques unes de mes précédentes associations :"
   },
   {
-    "objectID": "portfolio.html#digital-art",
-    "href": "portfolio.html#digital-art",
+    "objectID": "portfolio.html#infographie",
+    "href": "portfolio.html#infographie",
     "title": "Portfolio",
-    "section": "🎨 Digital art",
-    "text": "🎨 Digital art\n\n🪧 Event banners\n   \n\n\n📜 Posters\n     \n\n\nLogo\n\n\n\n\n\n\n\n🎥 Video thumbnail\n \n\n\n👨‍🚀 Presentation cards\n \n\n\n🎲 Other"
+    "section": "🎨 Infographie",
+    "text": "🎨 Infographie\n\n🪧 Bannières évènements\n   \n\n\n📜 Posters\n     \n\n\nLogo\n\n\n\n\n\n\n\n🎥 Vignettes YouTube\n \n\n\n👨‍🚀 Fiches de présentation\n \n\n\n🎲 Autre"
   }
 ]
